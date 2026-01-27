@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { X, Plus, Tag } from 'lucide-react';
-import { useCRM, PIPELINE_STAGES, INDUSTRIES } from '../context/CRMContext';
+import { useCRM, PIPELINE_STAGES, CUSTOMER_TYPES, END_CUSTOMER_TYPES } from '../context/CRMContext';
 
 export default function CustomerForm({ customer, onClose, onSave }) {
   const { addCustomer, updateCustomer, tags, addTag } = useCRM();
@@ -9,7 +9,8 @@ export default function CustomerForm({ customer, onClose, onSave }) {
     company: '',
     email: '',
     phone: '',
-    industry: '',
+    customerType: '',
+    endCustomerType: '',
     pipelineStage: 'prospect',
     dealValue: '',
     notes: '',
@@ -25,7 +26,8 @@ export default function CustomerForm({ customer, onClose, onSave }) {
         company: customer.company || '',
         email: customer.email || '',
         phone: customer.phone || '',
-        industry: customer.industry || '',
+        customerType: customer.customerType || '',
+        endCustomerType: customer.endCustomerType || '',
         pipelineStage: customer.pipelineStage || 'prospect',
         dealValue: customer.dealValue || '',
         notes: customer.notes || '',
@@ -168,21 +170,46 @@ export default function CustomerForm({ customer, onClose, onSave }) {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div>
-              <label className="label">Industry</label>
+              <label className="label">Customer Type</label>
               <select
-                name="industry"
-                value={formData.industry}
-                onChange={handleChange}
+                name="customerType"
+                value={formData.customerType}
+                onChange={(e) => {
+                  handleChange(e);
+                  // Clear endCustomerType if not End Customer
+                  if (e.target.value !== 'End Customer') {
+                    setFormData((prev) => ({ ...prev, endCustomerType: '' }));
+                  }
+                }}
                 className="select"
               >
-                <option value="">Select industry</option>
-                {INDUSTRIES.map((industry) => (
-                  <option key={industry} value={industry}>
-                    {industry}
+                <option value="">Select customer type</option>
+                {CUSTOMER_TYPES.map((type) => (
+                  <option key={type} value={type}>
+                    {type}
                   </option>
                 ))}
               </select>
             </div>
+
+            {formData.customerType === 'End Customer' && (
+              <div>
+                <label className="label">End Customer Type</label>
+                <select
+                  name="endCustomerType"
+                  value={formData.endCustomerType}
+                  onChange={handleChange}
+                  className="select"
+                >
+                  <option value="">Select type</option>
+                  {END_CUSTOMER_TYPES.map((type) => (
+                    <option key={type} value={type}>
+                      {type}
+                    </option>
+                  ))}
+                </select>
+              </div>
+            )}
 
             <div>
               <label className="label">Deal Value ($)</label>

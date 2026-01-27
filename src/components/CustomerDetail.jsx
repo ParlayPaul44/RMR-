@@ -156,13 +156,14 @@ export default function CustomerDetail({ customer, onBack }) {
                 </div>
               </div>
             )}
-            {customer.industry && (
+            {customer.customerType && (
               <div className="flex items-center gap-3 p-3 bg-gray-50 dark:bg-gray-800 rounded-lg">
                 <Globe size={18} className="text-gray-400" />
                 <div>
-                  <p className="text-xs text-gray-500 dark:text-gray-400">Industry</p>
+                  <p className="text-xs text-gray-500 dark:text-gray-400">Customer Type</p>
                   <p className="text-sm font-medium text-gray-900 dark:text-white">
-                    {customer.industry}
+                    {customer.customerType}
+                    {customer.endCustomerType && ` - ${customer.endCustomerType}`}
                   </p>
                 </div>
               </div>

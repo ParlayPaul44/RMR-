@@ -14,7 +14,7 @@ import {
   ChevronDown,
   MessageSquare,
 } from 'lucide-react';
-import { useCRM, PIPELINE_STAGES, INDUSTRIES } from '../context/CRMContext';
+import { useCRM, PIPELINE_STAGES, CUSTOMER_TYPES } from '../context/CRMContext';
 import { formatCurrency } from '../utils/formatters';
 import { formatDate } from '../utils/dateUtils';
 import CustomerForm from './CustomerForm';
@@ -43,7 +43,7 @@ export default function CustomerList({ onSelectCustomer }) {
   const [editingCustomer, setEditingCustomer] = useState(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [filterStage, setFilterStage] = useState('all');
-  const [filterIndustry, setFilterIndustry] = useState('all');
+  const [filterCustomerType, setFilterCustomerType] = useState('all');
   const [sortBy, setSortBy] = useState('name');
   const [sortDir, setSortDir] = useState('asc');
   const [showFilters, setShowFilters] = useState(false);
@@ -69,9 +69,9 @@ export default function CustomerList({ onSelectCustomer }) {
       result = result.filter((c) => c.pipelineStage === filterStage);
     }
 
-    // Industry filter
-    if (filterIndustry !== 'all') {
-      result = result.filter((c) => c.industry === filterIndustry);
+    // Customer Type filter
+    if (filterCustomerType !== 'all') {
+      result = result.filter((c) => c.customerType === filterCustomerType);
     }
 
     // Sort
@@ -103,7 +103,7 @@ export default function CustomerList({ onSelectCustomer }) {
     });
 
     return result;
-  }, [customers, searchQuery, filterStage, filterIndustry, sortBy, sortDir]);
+  }, [customers, searchQuery, filterStage, filterCustomerType, sortBy, sortDir]);
 
   const handleEdit = (customer) => {
     setEditingCustomer(customer);
@@ -195,16 +195,16 @@ export default function CustomerList({ onSelectCustomer }) {
               </select>
             </div>
             <div>
-              <label className="label">Industry</label>
+              <label className="label">Customer Type</label>
               <select
-                value={filterIndustry}
-                onChange={(e) => setFilterIndustry(e.target.value)}
+                value={filterCustomerType}
+                onChange={(e) => setFilterCustomerType(e.target.value)}
                 className="select"
               >
-                <option value="all">All Industries</option>
-                {INDUSTRIES.map((industry) => (
-                  <option key={industry} value={industry}>
-                    {industry}
+                <option value="all">All Types</option>
+                {CUSTOMER_TYPES.map((type) => (
+                  <option key={type} value={type}>
+                    {type}
                   </option>
                 ))}
               </select>

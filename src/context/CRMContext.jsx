@@ -28,18 +28,19 @@ export const INTERACTION_OUTCOMES = [
   { id: 'objection_raised', label: 'Objection Raised', color: 'red' },
 ];
 
-// Industries
-export const INDUSTRIES = [
-  'Technology',
-  'Healthcare',
-  'Finance',
-  'Manufacturing',
-  'Retail',
-  'Education',
-  'Real Estate',
-  'Consulting',
-  'Marketing',
-  'Other',
+// Customer Types
+export const CUSTOMER_TYPES = [
+  'Elevator Contractor',
+  'Consultant',
+  'Fixture Manufacturer',
+  'End Customer',
+];
+
+// End Customer Sub-Types
+export const END_CUSTOMER_TYPES = [
+  'Hospital',
+  'University',
+  'Government',
 ];
 
 const STORAGE_KEY = 'sales-crm-data';
@@ -244,7 +245,7 @@ export const CRMProvider = ({ children }) => {
 
   const exportToCSV = () => {
     // Export customers
-    const customerHeaders = ['id', 'name', 'company', 'email', 'phone', 'industry', 'pipelineStage', 'dealValue', 'notes', 'tags', 'createdAt'];
+    const customerHeaders = ['id', 'name', 'company', 'email', 'phone', 'customerType', 'endCustomerType', 'pipelineStage', 'dealValue', 'notes', 'tags', 'createdAt'];
     const customerRows = state.customers.map((c) =>
       customerHeaders.map((h) => {
         const val = c[h];
