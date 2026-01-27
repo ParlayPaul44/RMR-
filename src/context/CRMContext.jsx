@@ -43,12 +43,25 @@ export const END_CUSTOMER_TYPES = [
   'Government',
 ];
 
+// Project Pipeline Stages
+export const PROJECT_STAGES = [
+  { id: 'lead', label: 'Lead', color: 'gray' },
+  { id: 'quoting', label: 'Quoting', color: 'blue' },
+  { id: 'submitted', label: 'Submitted', color: 'purple' },
+  { id: 'awarded', label: 'Awarded', color: 'green' },
+  { id: 'in_production', label: 'In Production', color: 'orange' },
+  { id: 'shipped', label: 'Shipped', color: 'teal' },
+  { id: 'completed', label: 'Completed', color: 'green' },
+  { id: 'lost', label: 'Lost', color: 'red' },
+];
+
 const STORAGE_KEY = 'sales-crm-data';
 
 // Initial state
 const initialState = {
   customers: [],
   interactions: [],
+  projects: [],
   settings: {
     salesRepName: 'Sales Rep',
     darkMode: false,
@@ -88,6 +101,10 @@ const ActionTypes = {
   ADD_INTERACTION: 'ADD_INTERACTION',
   UPDATE_INTERACTION: 'UPDATE_INTERACTION',
   DELETE_INTERACTION: 'DELETE_INTERACTION',
+  // Projects
+  ADD_PROJECT: 'ADD_PROJECT',
+  UPDATE_PROJECT: 'UPDATE_PROJECT',
+  DELETE_PROJECT: 'DELETE_PROJECT',
   // Settings
   UPDATE_SETTINGS: 'UPDATE_SETTINGS',
   // Tags
@@ -138,6 +155,25 @@ const crmReducer = (state, action) => {
       return {
         ...state,
         interactions: state.interactions.filter((interaction) => interaction.id !== action.payload),
+      };
+
+    // Projects
+    case ActionTypes.ADD_PROJECT:
+      return {
+        ...state,
+        projects: [...(state.projects || []), { ...action.payload, id: uuidv4(), createdAt: new Date().toISOString() }],
+      };
+    case ActionTypes.UPDATE_PROJECT:
+      return {
+        ...state,
+        projects: (state.projects || []).map((project) =>
+          project.id === action.payload.id ? { ...project, ...action.payload, updatedAt: new Date().toISOString() } : project
+        ),
+      };
+    case ActionTypes.DELETE_PROJECT:
+      return {
+        ...state,
+        projects: (state.projects || []).filter((project) => project.id !== action.payload),
       };
 
     // Settings
@@ -218,6 +254,27 @@ export const CRMProvider = ({ children }) => {
 
   const getInteractionsByCustomer = (customerId) => {
     return state.interactions.filter((i) => i.customerId === customerId);
+  };
+
+  // Project actions
+  const addProject = (project) => {
+    dispatch({ type: ActionTypes.ADD_PROJECT, payload: project });
+  };
+
+  const updateProject = (project) => {
+    dispatch({ type: ActionTypes.UPDATE_PROJECT, payload: project });
+  };
+
+  const deleteProject = (projectId) => {
+    dispatch({ type: ActionTypes.DELETE_PROJECT, payload: projectId });
+  };
+
+  const getProjectById = (projectId) => {
+    return (state.projects || []).find((p) => p.id === projectId);
+  };
+
+  const getProjectsByCustomer = (customerId) => {
+    return (state.projects || []).filter((p) => p.customerId === customerId);
   };
 
   // Settings actions
@@ -425,6 +482,7 @@ export const CRMProvider = ({ children }) => {
 
   const value = {
     ...state,
+    projects: state.projects || [],
     // Customer actions
     addCustomer,
     updateCustomer,
@@ -435,6 +493,12 @@ export const CRMProvider = ({ children }) => {
     updateInteraction,
     deleteInteraction,
     getInteractionsByCustomer,
+    // Project actions
+    addProject,
+    updateProject,
+    deleteProject,
+    getProjectById,
+    getProjectsByCustomer,
     // Settings actions
     updateSettings,
     // Tag actions

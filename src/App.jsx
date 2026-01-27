@@ -4,6 +4,7 @@ import Layout from './components/Layout';
 import Dashboard from './components/Dashboard';
 import CustomerList from './components/CustomerList';
 import CustomerDetail from './components/CustomerDetail';
+import ProjectList from './components/ProjectList';
 import InteractionList from './components/InteractionList';
 import Reports from './components/Reports';
 import Settings from './components/Settings';
@@ -55,6 +56,8 @@ function AppContent() {
         return <Dashboard onNavigate={handleNavigate} />;
       case 'customers':
         return <CustomerList onSelectCustomer={setSelectedCustomer} />;
+      case 'projects':
+        return <ProjectList />;
       case 'interactions':
         return <InteractionList />;
       case 'reports':

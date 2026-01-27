@@ -12,12 +12,14 @@ import {
   Search,
   Download,
   Upload,
+  Layers,
 } from 'lucide-react';
 import { useCRM } from '../context/CRMContext';
 
 const navItems = [
   { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
   { id: 'customers', label: 'Customers', icon: Users },
+  { id: 'projects', label: 'Projects', icon: Layers },
   { id: 'interactions', label: 'Interactions', icon: MessageSquare },
   { id: 'reports', label: 'Reports', icon: FileText },
   { id: 'settings', label: 'Settings', icon: Settings },
