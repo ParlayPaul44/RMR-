@@ -68,7 +68,7 @@ export default function ProjectForm({ project, customerId, onClose }) {
       <div className="w-full max-w-lg max-h-[90vh] overflow-y-auto bg-white dark:bg-gray-800 rounded-xl shadow-xl">
         <div className="flex items-center justify-between p-4 border-b border-gray-200 dark:border-gray-700">
           <h2 className="text-lg font-semibold text-gray-900 dark:text-white">
-            {project ? 'Edit Project' : 'Add Project'}
+            {project ? 'Edit Product Project' : 'Add Product Project'}
           </h2>
           <button
             onClick={onClose}
@@ -80,7 +80,7 @@ export default function ProjectForm({ project, customerId, onClose }) {
 
         <form onSubmit={handleSubmit} className="p-4 space-y-4">
           <div>
-            <label className="label">Project Name *</label>
+            <label className="label">Product Project Name *</label>
             <input
               type="text"
               name="name"
@@ -101,7 +101,7 @@ export default function ProjectForm({ project, customerId, onClose }) {
               value={formData.description}
               onChange={handleChange}
               className="input min-h-[80px] resize-y"
-              placeholder="Brief description of the project..."
+              placeholder="Brief description of the product project..."
             />
           </div>
 
@@ -144,7 +144,7 @@ export default function ProjectForm({ project, customerId, onClose }) {
             </div>
 
             <div>
-              <label className="label">Project Value ($)</label>
+              <label className="label">Product Value ($)</label>
               <input
                 type="number"
                 name="value"
@@ -182,7 +182,7 @@ export default function ProjectForm({ project, customerId, onClose }) {
               value={formData.notes}
               onChange={handleChange}
               className="input min-h-[100px] resize-y"
-              placeholder="Additional notes about this project..."
+              placeholder="Additional notes about this product project..."
             />
           </div>
 

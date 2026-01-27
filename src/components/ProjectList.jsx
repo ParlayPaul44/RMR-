@@ -202,9 +202,9 @@ export default function ProjectList() {
       {/* Header */}
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div>
-          <h1 className="text-2xl font-bold text-gray-900 dark:text-white">Projects</h1>
+          <h1 className="text-2xl font-bold text-gray-900 dark:text-white">Product Pipeline</h1>
           <p className="text-sm text-gray-500 dark:text-gray-400">
-            {(projects || []).length} total • {formatCurrency(totalPipelineValue)} in pipeline
+            {(projects || []).length} product projects • {formatCurrency(totalPipelineValue)} in pipeline
           </p>
         </div>
         <div className="flex items-center gap-2">
@@ -240,7 +240,7 @@ export default function ProjectList() {
             className="btn btn-primary flex items-center gap-2"
           >
             <Plus size={18} />
-            Add Project
+            Add Product Project
           </button>
         </div>
       </div>
@@ -255,7 +255,7 @@ export default function ProjectList() {
             />
             <input
               type="text"
-              placeholder="Search projects..."
+              placeholder="Search product projects..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="input pl-10"
@@ -338,7 +338,7 @@ export default function ProjectList() {
                   <div className="p-2 space-y-2 min-h-[200px] max-h-[500px] overflow-y-auto scrollbar-thin">
                     {(projectsByStage[stage.id] || []).length === 0 ? (
                       <p className="text-xs text-gray-400 dark:text-gray-500 text-center py-4">
-                        No projects
+                        No product projects
                       </p>
                     ) : (
                       (projectsByStage[stage.id] || []).map((project) => (
@@ -365,8 +365,8 @@ export default function ProjectList() {
             <div className="p-8 text-center">
               <p className="text-gray-500 dark:text-gray-400">
                 {(projects || []).length === 0
-                  ? 'No projects yet. Add your first project to get started.'
-                  : 'No projects match your search criteria.'}
+                  ? 'No product projects yet. Add your first product project to get started.'
+                  : 'No product projects match your search criteria.'}
               </p>
             </div>
           ) : (
