@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { X, Plus, Tag } from 'lucide-react';
+import { v4 as uuidv4 } from 'uuid';
 import { useCRM, PIPELINE_STAGES, CUSTOMER_TYPES, END_CUSTOMER_TYPES } from '../context/CRMContext';
 
 export default function CustomerForm({ customer, onClose, onSave }) {
@@ -57,11 +58,14 @@ export default function CustomerForm({ customer, onClose, onSave }) {
 
     if (customer) {
       updateCustomer({ ...data, id: customer.id });
+      onSave?.({ ...data, id: customer.id });
     } else {
-      addCustomer(data);
+      const newId = uuidv4();
+      const newCustomer = { ...data, id: newId };
+      addCustomer(newCustomer);
+      onSave?.(newCustomer);
     }
 
-    onSave?.();
     onClose();
   };
 

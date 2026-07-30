@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react';
-import { X, Plus, Tag, Zap } from 'lucide-react';
+import { X, Plus, Tag, Zap, UserPlus } from 'lucide-react';
 import { useCRM, INTERACTION_TYPES, INTERACTION_OUTCOMES } from '../context/CRMContext';
 import { toISODateTimeString, toISODateString } from '../utils/dateUtils';
+import CustomerForm from './CustomerForm';
 
 export default function InteractionForm({
   interaction,
@@ -24,6 +25,7 @@ export default function InteractionForm({
   const [newTag, setNewTag] = useState('');
   const [errors, setErrors] = useState({});
   const [isQuickMode, setIsQuickMode] = useState(quickMode);
+  const [showCustomerForm, setShowCustomerForm] = useState(false);
 
   useEffect(() => {
     if (interaction) {
@@ -160,20 +162,32 @@ export default function InteractionForm({
           {/* Customer Selection */}
           <div>
             <label className="label">Customer *</label>
-            <select
-              name="customerId"
-              value={formData.customerId}
-              onChange={handleChange}
-              className={`select ${errors.customerId ? 'border-red-500' : ''}`}
-              disabled={!!customerId}
-            >
-              <option value="">Select a customer</option>
-              {customers.map((customer) => (
-                <option key={customer.id} value={customer.id}>
-                  {customer.name} {customer.company ? `(${customer.company})` : ''}
-                </option>
-              ))}
-            </select>
+            <div className="flex gap-2">
+              <select
+                name="customerId"
+                value={formData.customerId}
+                onChange={handleChange}
+                className={`select flex-1 ${errors.customerId ? 'border-red-500' : ''}`}
+                disabled={!!customerId}
+              >
+                <option value="">Select a customer</option>
+                {customers.map((customer) => (
+                  <option key={customer.id} value={customer.id}>
+                    {customer.name} {customer.company ? `(${customer.company})` : ''}
+                  </option>
+                ))}
+              </select>
+              {!customerId && (
+                <button
+                  type="button"
+                  onClick={() => setShowCustomerForm(true)}
+                  className="btn btn-secondary flex items-center gap-1"
+                  title="Add New Customer"
+                >
+                  <UserPlus size={18} />
+                </button>
+              )}
+            </div>
             {errors.customerId && (
               <p className="mt-1 text-sm text-red-500">{errors.customerId}</p>
             )}
@@ -404,6 +418,17 @@ export default function InteractionForm({
           )}
         </form>
       </div>
+
+      {/* Customer Form Modal */}
+      {showCustomerForm && (
+        <CustomerForm
+          onClose={() => setShowCustomerForm(false)}
+          onSave={(newCustomer) => {
+            setFormData((prev) => ({ ...prev, customerId: newCustomer.id }));
+            setShowCustomerForm(false);
+          }}
+        />
+      )}
     </div>
   );
 }

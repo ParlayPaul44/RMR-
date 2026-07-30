@@ -122,7 +122,7 @@ const crmReducer = (state, action) => {
     case ActionTypes.ADD_CUSTOMER:
       return {
         ...state,
-        customers: [...state.customers, { ...action.payload, id: uuidv4(), createdAt: new Date().toISOString() }],
+        customers: [...state.customers, { ...action.payload, id: action.payload.id || uuidv4(), createdAt: new Date().toISOString() }],
       };
     case ActionTypes.UPDATE_CUSTOMER:
       return {
