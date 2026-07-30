@@ -33,6 +33,7 @@ export const CUSTOMER_TYPES = [
   'Elevator Contractor',
   'Consultant',
   'Fixture Manufacturer',
+  'Monitoring Company',
   'End Customer',
 ];
 
