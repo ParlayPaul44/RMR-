@@ -17,8 +17,10 @@ import {
   BarChart3,
   List,
   Grid,
+  Plus,
 } from 'lucide-react';
 import { useCRM, INTERACTION_TYPES, PIPELINE_STAGES } from '../context/CRMContext';
+import InteractionForm from './InteractionForm';
 import { formatCurrency } from '../utils/formatters';
 import {
   formatDate,
@@ -65,6 +67,7 @@ export default function Dashboard({ onNavigate }) {
   const [currentDate, setCurrentDate] = useState(new Date());
   const [viewMode, setViewMode] = useState('calendar'); // 'calendar' or 'list'
   const [filterType, setFilterType] = useState('all');
+  const [showInteractionForm, setShowInteractionForm] = useState(false);
 
   const monthRange = useMemo(() => getMonthRange(currentDate), [currentDate]);
   const calendarDays = useMemo(() => getCalendarDays(currentDate), [currentDate]);
@@ -119,6 +122,13 @@ export default function Dashboard({ onNavigate }) {
           </p>
         </div>
         <div className="flex items-center gap-2">
+          <button
+            onClick={() => setShowInteractionForm(true)}
+            className="btn btn-primary flex items-center gap-2"
+          >
+            <Plus size={18} />
+            Add Interaction
+          </button>
           <button
             onClick={() => setCurrentDate(navigateMonth(currentDate, 'prev'))}
             className="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700"
@@ -507,6 +517,14 @@ export default function Dashboard({ onNavigate }) {
           </div>
         </div>
       </div>
+
+      {/* Interaction Form Modal */}
+      {showInteractionForm && (
+        <InteractionForm
+          onClose={() => setShowInteractionForm(false)}
+          onSave={() => setShowInteractionForm(false)}
+        />
+      )}
     </div>
   );
 }

@@ -3,6 +3,7 @@ import { X, Plus, Tag, Zap, UserPlus } from 'lucide-react';
 import { useCRM, INTERACTION_TYPES, INTERACTION_OUTCOMES } from '../context/CRMContext';
 import { toISODateTimeString, toISODateString } from '../utils/dateUtils';
 import CustomerForm from './CustomerForm';
+import SearchableCustomerSelect from './SearchableCustomerSelect';
 
 export default function InteractionForm({
   interaction,
@@ -163,20 +164,21 @@ export default function InteractionForm({
           <div>
             <label className="label">Customer *</label>
             <div className="flex gap-2">
-              <select
-                name="customerId"
-                value={formData.customerId}
-                onChange={handleChange}
-                className={`select flex-1 ${errors.customerId ? 'border-red-500' : ''}`}
-                disabled={!!customerId}
-              >
-                <option value="">Select a customer</option>
-                {customers.map((customer) => (
-                  <option key={customer.id} value={customer.id}>
-                    {customer.name} {customer.company ? `(${customer.company})` : ''}
-                  </option>
-                ))}
-              </select>
+              <div className="flex-1">
+                <SearchableCustomerSelect
+                  customers={customers}
+                  value={formData.customerId}
+                  onChange={(customerId) => {
+                    setFormData((prev) => ({ ...prev, customerId }));
+                    if (errors.customerId) {
+                      setErrors((prev) => ({ ...prev, customerId: null }));
+                    }
+                  }}
+                  disabled={!!customerId}
+                  error={errors.customerId}
+                  placeholder="Type to search customers..."
+                />
+              </div>
               {!customerId && (
                 <button
                   type="button"
