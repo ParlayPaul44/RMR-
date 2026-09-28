@@ -68,6 +68,7 @@ export default function Dashboard({ onNavigate }) {
   const [viewMode, setViewMode] = useState('calendar'); // 'calendar' or 'list'
   const [filterType, setFilterType] = useState('all');
   const [showInteractionForm, setShowInteractionForm] = useState(false);
+  const [selectedInteraction, setSelectedInteraction] = useState(null);
 
   const monthRange = useMemo(() => getMonthRange(currentDate), [currentDate]);
   const calendarDays = useMemo(() => getCalendarDays(currentDate), [currentDate]);
@@ -288,7 +289,11 @@ export default function Dashboard({ onNavigate }) {
                           {dayInteractions.slice(0, 3).map((interaction) => (
                             <div
                               key={interaction.id}
-                              className={`text-xs px-1 py-0.5 rounded truncate ${
+                              onClick={() => {
+                                setSelectedInteraction(interaction);
+                                setShowInteractionForm(true);
+                              }}
+                              className={`text-xs px-1 py-0.5 rounded truncate cursor-pointer hover:opacity-80 ${
                                 interaction.type === 'call'
                                   ? 'bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-300'
                                   : interaction.type === 'email'
@@ -332,7 +337,11 @@ export default function Dashboard({ onNavigate }) {
                         return (
                           <div
                             key={interaction.id}
-                            className="flex items-start gap-3 p-3 bg-gray-50 dark:bg-gray-800 rounded-lg"
+                            onClick={() => {
+                              setSelectedInteraction(interaction);
+                              setShowInteractionForm(true);
+                            }}
+                            className="flex items-start gap-3 p-3 bg-gray-50 dark:bg-gray-800 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-700"
                           >
                             <div
                               className={`p-2 rounded-lg ${
@@ -521,8 +530,15 @@ export default function Dashboard({ onNavigate }) {
       {/* Interaction Form Modal */}
       {showInteractionForm && (
         <InteractionForm
-          onClose={() => setShowInteractionForm(false)}
-          onSave={() => setShowInteractionForm(false)}
+          interaction={selectedInteraction}
+          onClose={() => {
+            setShowInteractionForm(false);
+            setSelectedInteraction(null);
+          }}
+          onSave={() => {
+            setShowInteractionForm(false);
+            setSelectedInteraction(null);
+          }}
         />
       )}
     </div>
