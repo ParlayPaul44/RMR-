@@ -21,6 +21,7 @@ export default function CustomerForm({ customer, onClose, onSave }) {
   const { addCustomer, updateCustomer, tags, addTag } = useCRM();
   const [formData, setFormData] = useState({
     name: '',
+    title: '',
     company: '',
     email: '',
     phone: '',
@@ -40,6 +41,7 @@ export default function CustomerForm({ customer, onClose, onSave }) {
     if (customer) {
       setFormData({
         name: customer.name || '',
+        title: customer.title || '',
         company: customer.company || '',
         email: customer.email || '',
         phone: customer.phone || '',
@@ -149,6 +151,20 @@ export default function CustomerForm({ customer, onClose, onSave }) {
             </div>
 
             <div>
+              <label className="label">Title</label>
+              <input
+                type="text"
+                name="title"
+                value={formData.title}
+                onChange={handleChange}
+                className="input"
+                placeholder="Sales Manager"
+              />
+            </div>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
               <label className="label">Company</label>
               <input
                 type="text"
@@ -159,9 +175,7 @@ export default function CustomerForm({ customer, onClose, onSave }) {
                 placeholder="Acme Inc"
               />
             </div>
-          </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div>
               <label className="label">Email</label>
               <input
@@ -176,7 +190,9 @@ export default function CustomerForm({ customer, onClose, onSave }) {
                 <p className="mt-1 text-sm text-red-500">{errors.email}</p>
               )}
             </div>
+          </div>
 
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div>
               <label className="label">Phone</label>
               <input
