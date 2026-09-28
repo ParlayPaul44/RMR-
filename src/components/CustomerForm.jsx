@@ -3,6 +3,20 @@ import { X, Plus, Tag } from 'lucide-react';
 import { v4 as uuidv4 } from 'uuid';
 import { useCRM, PIPELINE_STAGES, CUSTOMER_TYPES, END_CUSTOMER_TYPES } from '../context/CRMContext';
 
+const COUNTRIES = ['USA', 'Canada'];
+
+const US_STATES = [
+  'AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA',
+  'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD',
+  'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ',
+  'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC',
+  'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY'
+];
+
+const CANADA_PROVINCES = [
+  'AB', 'BC', 'MB', 'NB', 'NL', 'NS', 'NT', 'NU', 'ON', 'PE', 'QC', 'SK', 'YT'
+];
+
 export default function CustomerForm({ customer, onClose, onSave }) {
   const { addCustomer, updateCustomer, tags, addTag } = useCRM();
   const [formData, setFormData] = useState({
@@ -10,6 +24,8 @@ export default function CustomerForm({ customer, onClose, onSave }) {
     company: '',
     email: '',
     phone: '',
+    country: 'USA',
+    state: '',
     customerType: '',
     endCustomerType: '',
     pipelineStage: 'prospect',
@@ -27,6 +43,8 @@ export default function CustomerForm({ customer, onClose, onSave }) {
         company: customer.company || '',
         email: customer.email || '',
         phone: customer.phone || '',
+        country: customer.country || 'USA',
+        state: customer.state || '',
         customerType: customer.customerType || '',
         endCustomerType: customer.endCustomerType || '',
         pipelineStage: customer.pipelineStage || 'prospect',
@@ -169,6 +187,44 @@ export default function CustomerForm({ customer, onClose, onSave }) {
                 className="input"
                 placeholder="(555) 123-4567"
               />
+            </div>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label className="label">Country</label>
+              <select
+                name="country"
+                value={formData.country}
+                onChange={(e) => {
+                  handleChange(e);
+                  setFormData((prev) => ({ ...prev, state: '' }));
+                }}
+                className="select"
+              >
+                {COUNTRIES.map((country) => (
+                  <option key={country} value={country}>
+                    {country}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label className="label">{formData.country === 'Canada' ? 'Province' : 'State'}</label>
+              <select
+                name="state"
+                value={formData.state}
+                onChange={handleChange}
+                className="select"
+              >
+                <option value="">Select {formData.country === 'Canada' ? 'province' : 'state'}</option>
+                {(formData.country === 'Canada' ? CANADA_PROVINCES : US_STATES).map((state) => (
+                  <option key={state} value={state}>
+                    {state}
+                  </option>
+                ))}
+              </select>
             </div>
           </div>
 
