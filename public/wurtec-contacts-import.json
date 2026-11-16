@@ -30,7 +30,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.710626"
+      "createdAt": "2026-08-03T13:22:26.710626",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "6cf9f6de-1ff7-41b2-a69c-12665f315bd4",
@@ -46,7 +48,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.710730"
+      "createdAt": "2026-08-03T13:22:26.710730",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "12af76c1-c09e-4c58-8b87-f922b8aaf0c7",
@@ -62,7 +66,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.710805"
+      "createdAt": "2026-08-03T13:22:26.710805",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "f095bda9-e665-49f7-9287-7e25bd32de9d",
@@ -78,7 +84,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.710883"
+      "createdAt": "2026-08-03T13:22:26.710883",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "16c857d2-faef-49eb-b6e1-c662122bfcec",
@@ -94,7 +102,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.710949"
+      "createdAt": "2026-08-03T13:22:26.710949",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "e36425f7-9c55-4717-bf53-8407f9099db5",
@@ -110,7 +120,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.711031"
+      "createdAt": "2026-08-03T13:22:26.711031",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "e321bdc0-cdb7-4744-ae89-7bf49de04356",
@@ -127,7 +139,9 @@
         "Contractors-CANADA",
         "Contractors-GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.711115"
+      "createdAt": "2026-08-03T13:22:26.711115",
+      "state": "GA",
+      "country": "Canada"
     },
     {
       "id": "48798ea5-1299-449d-90d9-25236e3c43f4",
@@ -143,7 +157,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.711176"
+      "createdAt": "2026-08-03T13:22:26.711176",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "783c473d-69c5-4ef0-a169-9d936b870a60",
@@ -159,7 +175,9 @@
       "tags": [
         "Contractors-PA"
       ],
-      "createdAt": "2026-08-03T13:22:26.711238"
+      "createdAt": "2026-08-03T13:22:26.711238",
+      "state": "PA",
+      "country": "USA"
     },
     {
       "id": "891b724e-3edd-45f3-9a14-a6bd50869582",
@@ -175,7 +193,9 @@
       "tags": [
         "Contractors-PA"
       ],
-      "createdAt": "2026-08-03T13:22:26.711308"
+      "createdAt": "2026-08-03T13:22:26.711308",
+      "state": "PA",
+      "country": "USA"
     },
     {
       "id": "e82f4066-54ab-4bcd-9629-081ed9fe530a",
@@ -208,7 +228,9 @@
         "Travel",
         "FL"
       ],
-      "createdAt": "2026-08-03T13:22:26.711444"
+      "createdAt": "2026-08-03T13:22:26.711444",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "4f2196fd-7fe2-4781-a2a8-680d3ce2b330",
@@ -240,7 +262,9 @@
       "tags": [
         "Contractors-AZ"
       ],
-      "createdAt": "2026-08-03T13:22:26.711681"
+      "createdAt": "2026-08-03T13:22:26.711681",
+      "state": "AZ",
+      "country": "USA"
     },
     {
       "id": "055b4d5f-4038-4ca2-a2c8-707fc4e26582",
@@ -257,7 +281,9 @@
         "Contractors-AZ",
         "AZ"
       ],
-      "createdAt": "2026-08-03T13:22:26.711787"
+      "createdAt": "2026-08-03T13:22:26.711787",
+      "state": "AZ",
+      "country": "USA"
     },
     {
       "id": "2af45c74-2a08-400d-85ea-f7ccf2cb700c",
@@ -274,7 +300,9 @@
         "Universities",
         "AR"
       ],
-      "createdAt": "2026-08-03T13:22:26.711875"
+      "createdAt": "2026-08-03T13:22:26.711875",
+      "state": "AR",
+      "country": "USA"
     },
     {
       "id": "38678b1b-0589-4f73-8595-7d02e12ed43a",
@@ -386,7 +414,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.712534"
+      "createdAt": "2026-08-03T13:22:26.712534",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "d8bedc46-b8d6-4064-9f7c-972a9d5bd71a",
@@ -402,7 +432,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.712692"
+      "createdAt": "2026-08-03T13:22:26.712692",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "802367c0-8a39-4301-b085-1ac863a8f665",
@@ -418,7 +450,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.712794"
+      "createdAt": "2026-08-03T13:22:26.712794",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "69227255-487c-45d7-a905-fe07431f8858",
@@ -434,7 +468,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.712900"
+      "createdAt": "2026-08-03T13:22:26.712900",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "13e51c21-bb60-402c-a5f8-b13f5153def5",
@@ -450,7 +486,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.713002"
+      "createdAt": "2026-08-03T13:22:26.713002",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "d96106b8-b1bc-4194-ad71-06949c6c0937",
@@ -466,7 +504,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.713078"
+      "createdAt": "2026-08-03T13:22:26.713078",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "7c812567-d2aa-40d8-a160-992481d3f8f9",
@@ -482,7 +522,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.713137"
+      "createdAt": "2026-08-03T13:22:26.713137",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "13e71e81-9e11-4c05-8985-268f3eca1bfa",
@@ -498,7 +540,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.713193"
+      "createdAt": "2026-08-03T13:22:26.713193",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "a3312295-013d-4dbc-b682-db79ef514f28",
@@ -514,7 +558,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.713264"
+      "createdAt": "2026-08-03T13:22:26.713264",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "08e54db2-e71a-404e-befe-8e382d02316f",
@@ -579,7 +625,9 @@
         "Universities",
         "SC"
       ],
-      "createdAt": "2026-08-03T13:22:26.713616"
+      "createdAt": "2026-08-03T13:22:26.713616",
+      "state": "SC",
+      "country": "USA"
     },
     {
       "id": "b9a9ca62-19fd-4289-91b5-0e892f199ca9",
@@ -628,7 +676,9 @@
         "Universities",
         "GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.713814"
+      "createdAt": "2026-08-03T13:22:26.713814",
+      "state": "GA",
+      "country": "USA"
     },
     {
       "id": "70476eff-5507-4f7e-aac3-757b4b0420b9",
@@ -644,7 +694,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.713891"
+      "createdAt": "2026-08-03T13:22:26.713891",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "a6da46d1-d0b5-4327-9013-1c37b811ab07",
@@ -661,7 +713,9 @@
         "Contractors-NY",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.713966"
+      "createdAt": "2026-08-03T13:22:26.713966",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "c8da891c-cb2b-42cc-852e-bee209dc2771",
@@ -677,7 +731,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.714026"
+      "createdAt": "2026-08-03T13:22:26.714026",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "b6717fbd-f289-4cd2-a0a3-6ff8c3d2a324",
@@ -693,7 +749,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.714145"
+      "createdAt": "2026-08-03T13:22:26.714145",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "2a45177c-edd7-4860-9b31-ef5f142ad5c4",
@@ -709,7 +767,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.714212"
+      "createdAt": "2026-08-03T13:22:26.714212",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "c68a12e2-d987-409f-8b06-9346fc54eb7e",
@@ -725,7 +785,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.714268"
+      "createdAt": "2026-08-03T13:22:26.714268",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "8c865d1a-1479-4cb9-91d8-78cac2a2294e",
@@ -741,7 +803,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.714323"
+      "createdAt": "2026-08-03T13:22:26.714323",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "c2a3b15c-aa65-4493-bbd1-c79013309ebc",
@@ -757,7 +821,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.714381"
+      "createdAt": "2026-08-03T13:22:26.714381",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "a06fd568-8389-41d0-bc27-6e058f5969ff",
@@ -773,7 +839,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.714438"
+      "createdAt": "2026-08-03T13:22:26.714438",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3c106f64-db54-4443-9a2c-777a6c35a0da",
@@ -789,7 +857,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.714535"
+      "createdAt": "2026-08-03T13:22:26.714535",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "9ced7bdf-83e6-4692-b21c-175058cd0910",
@@ -805,7 +875,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.714603"
+      "createdAt": "2026-08-03T13:22:26.714603",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "aa51e875-7e92-4686-b2a7-30eadd808956",
@@ -821,7 +893,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.714660"
+      "createdAt": "2026-08-03T13:22:26.714660",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "d7cbda04-a9fc-4600-a750-7d7e14b90e80",
@@ -837,7 +911,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.714716"
+      "createdAt": "2026-08-03T13:22:26.714716",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "32ce62a2-8798-4b40-9383-0c54ea1d93ef",
@@ -853,7 +929,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.714774"
+      "createdAt": "2026-08-03T13:22:26.714774",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "d2b69e23-ebbf-4536-a091-1c23c983522d",
@@ -869,7 +947,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.714861"
+      "createdAt": "2026-08-03T13:22:26.714861",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "156bd4c1-77b4-41d4-82a2-2c26caa31a65",
@@ -885,7 +965,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.714960"
+      "createdAt": "2026-08-03T13:22:26.714960",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3398d077-31e0-454e-8463-e45eeca9bbc9",
@@ -901,7 +983,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715060"
+      "createdAt": "2026-08-03T13:22:26.715060",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "8c0bce73-97f6-4658-bf43-961029b6fe16",
@@ -917,7 +1001,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715121"
+      "createdAt": "2026-08-03T13:22:26.715121",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "a94fc65c-67e7-4413-a7ab-0162bb01577a",
@@ -933,7 +1019,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715178"
+      "createdAt": "2026-08-03T13:22:26.715178",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "bdf06e93-921e-469f-941e-e6e688a234ff",
@@ -949,7 +1037,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715255"
+      "createdAt": "2026-08-03T13:22:26.715255",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "a2c2df64-79f8-4422-a4bd-caa8f7006cbb",
@@ -965,7 +1055,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715312"
+      "createdAt": "2026-08-03T13:22:26.715312",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3c23739d-8feb-4100-b48c-161abf0b1f3f",
@@ -981,7 +1073,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715371"
+      "createdAt": "2026-08-03T13:22:26.715371",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "750efd39-035f-4edd-838f-a79cefe1671e",
@@ -997,7 +1091,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715450"
+      "createdAt": "2026-08-03T13:22:26.715450",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "86ec0857-8bf9-4cf2-8b01-da8d47c9e57c",
@@ -1013,7 +1109,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715555"
+      "createdAt": "2026-08-03T13:22:26.715555",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "8e5d45f6-7fc5-4e28-8051-a5048070aa41",
@@ -1029,7 +1127,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715612"
+      "createdAt": "2026-08-03T13:22:26.715612",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "87bfeafe-993c-4c67-9163-381e4d7830fb",
@@ -1045,7 +1145,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715717"
+      "createdAt": "2026-08-03T13:22:26.715717",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "94327318-e6c3-4e39-a8e0-a255779d3da0",
@@ -1061,7 +1163,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715775"
+      "createdAt": "2026-08-03T13:22:26.715775",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "d75144bb-04f7-4e9d-902c-c149631ea962",
@@ -1077,7 +1181,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715831"
+      "createdAt": "2026-08-03T13:22:26.715831",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "81e775c1-e533-43a6-b74d-631f80a0724c",
@@ -1093,7 +1199,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715892"
+      "createdAt": "2026-08-03T13:22:26.715892",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "2421d4d8-8958-4cbf-866a-5d6443040230",
@@ -1109,7 +1217,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.715948"
+      "createdAt": "2026-08-03T13:22:26.715948",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "8d073f3e-17da-421e-a347-de35ce7108dd",
@@ -1125,7 +1235,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.716003"
+      "createdAt": "2026-08-03T13:22:26.716003",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3aef6186-5847-4bdb-8fc0-4458913e2913",
@@ -1141,7 +1253,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.716058"
+      "createdAt": "2026-08-03T13:22:26.716058",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "66632dc7-4dc9-4cb9-9de9-1c13321e481c",
@@ -1157,7 +1271,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.716113"
+      "createdAt": "2026-08-03T13:22:26.716113",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "4c8e7a86-8ac4-4780-8303-7afe335f3c4d",
@@ -1173,7 +1289,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.716168"
+      "createdAt": "2026-08-03T13:22:26.716168",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "64492b2d-5feb-4af2-9274-dbb53fe4eec6",
@@ -1189,7 +1307,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.716305"
+      "createdAt": "2026-08-03T13:22:26.716305",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "48b1f98a-1cf0-487b-b029-3415f4ad7051",
@@ -1205,7 +1325,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.716552"
+      "createdAt": "2026-08-03T13:22:26.716552",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "bef15a44-8e2a-4308-bed4-3ebbed7ccc58",
@@ -1221,7 +1343,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.716618"
+      "createdAt": "2026-08-03T13:22:26.716618",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3c0dbfe2-9260-4853-87d1-4b7d167d1872",
@@ -1238,7 +1362,9 @@
         "Contractors-CANADA",
         "Travel"
       ],
-      "createdAt": "2026-08-03T13:22:26.716677"
+      "createdAt": "2026-08-03T13:22:26.716677",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "8ddd76fd-0d93-4f78-a4a2-eb4fb6fab986",
@@ -1272,7 +1398,9 @@
         "Universities",
         "NJ"
       ],
-      "createdAt": "2026-08-03T13:22:26.716870"
+      "createdAt": "2026-08-03T13:22:26.716870",
+      "state": "NJ",
+      "country": "USA"
     },
     {
       "id": "61f4d430-f5ba-4df3-b178-e715ae8de829",
@@ -1290,7 +1418,9 @@
         "Universities",
         "NJ"
       ],
-      "createdAt": "2026-08-03T13:22:26.716946"
+      "createdAt": "2026-08-03T13:22:26.716946",
+      "state": "NJ",
+      "country": "USA"
     },
     {
       "id": "659e2fcf-26e0-405b-9874-590ccff37575",
@@ -1308,7 +1438,9 @@
         "Universities",
         "NJ"
       ],
-      "createdAt": "2026-08-03T13:22:26.717007"
+      "createdAt": "2026-08-03T13:22:26.717007",
+      "state": "NJ",
+      "country": "USA"
     },
     {
       "id": "a821e3e9-af58-43b9-ac96-607feb56dbda",
@@ -1452,7 +1584,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.717704"
+      "createdAt": "2026-08-03T13:22:26.717704",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "b73cf61f-ad47-4746-b20a-7353897a80ed",
@@ -1469,7 +1603,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.717760"
+      "createdAt": "2026-08-03T13:22:26.717760",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "bc154b3c-42f9-4f66-bd00-d2e198e47d97",
@@ -1486,7 +1622,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.717815"
+      "createdAt": "2026-08-03T13:22:26.717815",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "bac445bf-9dd5-4439-a7f3-0d8532cb6dde",
@@ -1503,7 +1641,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.717877"
+      "createdAt": "2026-08-03T13:22:26.717877",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "2806f80f-e96b-43b2-ba7c-a513de044087",
@@ -1520,7 +1660,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.717934"
+      "createdAt": "2026-08-03T13:22:26.717934",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "3d21a1f5-743a-4a26-b9b8-cc39a16c8d67",
@@ -1537,7 +1679,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.717990"
+      "createdAt": "2026-08-03T13:22:26.717990",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "2c96678a-5335-43f7-8da9-165534958666",
@@ -1554,7 +1698,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.718059"
+      "createdAt": "2026-08-03T13:22:26.718059",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "c171607d-d9ce-4903-9b21-e78bafae8eb2",
@@ -1571,7 +1717,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.718120"
+      "createdAt": "2026-08-03T13:22:26.718120",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "c3bcabc8-f25d-472f-839c-71add6a24ec9",
@@ -1588,7 +1736,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.718175"
+      "createdAt": "2026-08-03T13:22:26.718175",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "36610060-8bc7-4358-b02d-fff277f51a15",
@@ -1605,7 +1755,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.718231"
+      "createdAt": "2026-08-03T13:22:26.718231",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "2fc4450c-4e82-4262-9dc3-8c0d71287839",
@@ -1622,7 +1774,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.718285"
+      "createdAt": "2026-08-03T13:22:26.718285",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "0a0e0cd7-8e2e-4db5-b473-5455611c22ca",
@@ -1639,7 +1793,9 @@
         "Contractors-CO",
         "Monitoring"
       ],
-      "createdAt": "2026-08-03T13:22:26.718356"
+      "createdAt": "2026-08-03T13:22:26.718356",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "b56ee369-318c-4202-a2a4-0fa76d4d5563",
@@ -1656,7 +1812,9 @@
         "Contractors-CO",
         "Monitoring"
       ],
-      "createdAt": "2026-08-03T13:22:26.718427"
+      "createdAt": "2026-08-03T13:22:26.718427",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "3075f632-61c8-48a4-9072-0ba0a22ca6ba",
@@ -1673,7 +1831,9 @@
         "Contractors-AZ",
         "AZ"
       ],
-      "createdAt": "2026-08-03T13:22:26.718524"
+      "createdAt": "2026-08-03T13:22:26.718524",
+      "state": "AZ",
+      "country": "USA"
     },
     {
       "id": "8e2af6ab-ef3b-470c-bf6f-38188471d3c4",
@@ -1689,7 +1849,9 @@
       "tags": [
         "Contractors-AZ"
       ],
-      "createdAt": "2026-08-03T13:22:26.718594"
+      "createdAt": "2026-08-03T13:22:26.718594",
+      "state": "AZ",
+      "country": "USA"
     },
     {
       "id": "0eba58fb-9d02-4638-9aa9-82d6a9654585",
@@ -1706,7 +1868,9 @@
         "Contractors-AZ",
         "AZ"
       ],
-      "createdAt": "2026-08-03T13:22:26.718653"
+      "createdAt": "2026-08-03T13:22:26.718653",
+      "state": "AZ",
+      "country": "USA"
     },
     {
       "id": "21dcb6bc-d4ef-4b95-b452-48ab67f97d4e",
@@ -1723,7 +1887,9 @@
         "Contractors-AZ",
         "AZ"
       ],
-      "createdAt": "2026-08-03T13:22:26.718711"
+      "createdAt": "2026-08-03T13:22:26.718711",
+      "state": "AZ",
+      "country": "USA"
     },
     {
       "id": "9e10b46e-f55f-4078-bedf-d3d586f438d9",
@@ -1741,7 +1907,9 @@
         "Monitoring",
         "CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.718785"
+      "createdAt": "2026-08-03T13:22:26.718785",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "a694e7d1-b400-40f9-9ade-460499f5e7e2",
@@ -1757,7 +1925,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.718856"
+      "createdAt": "2026-08-03T13:22:26.718856",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "f76908d1-7aa0-4f33-8171-7bf28d06ff3f",
@@ -1773,7 +1943,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.718928"
+      "createdAt": "2026-08-03T13:22:26.718928",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "b56ded94-6682-4b89-a6d3-4591fb1ddb8d",
@@ -1789,7 +1961,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719010"
+      "createdAt": "2026-08-03T13:22:26.719010",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "880271cd-7253-47c7-9522-eaa0d0ddff34",
@@ -1805,7 +1979,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719071"
+      "createdAt": "2026-08-03T13:22:26.719071",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "fea09233-adcc-4884-8437-e10cc62b2115",
@@ -1821,7 +1997,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719144"
+      "createdAt": "2026-08-03T13:22:26.719144",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "2e398e18-791a-4624-ba79-e07488ee5d50",
@@ -1837,7 +2015,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719205"
+      "createdAt": "2026-08-03T13:22:26.719205",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "c9aca7e6-ad6c-4d62-b1f4-8c815be32590",
@@ -1853,7 +2033,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719278"
+      "createdAt": "2026-08-03T13:22:26.719278",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "fac425cc-f274-4625-a8fd-28be68b77d1f",
@@ -1869,7 +2051,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719346"
+      "createdAt": "2026-08-03T13:22:26.719346",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "e7cab878-9cec-4fb8-aa4e-5b15e7aa079e",
@@ -1885,7 +2069,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719415"
+      "createdAt": "2026-08-03T13:22:26.719415",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "efc7d215-654d-4a60-bffd-35b1551dc024",
@@ -1901,7 +2087,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719519"
+      "createdAt": "2026-08-03T13:22:26.719519",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "e601175d-d0b3-400a-b206-2c3d6dfedf49",
@@ -1918,7 +2106,9 @@
         "Contractors-NY",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719599"
+      "createdAt": "2026-08-03T13:22:26.719599",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "96dc0d19-d6a8-45bd-bb7c-f4091f16adb7",
@@ -1934,7 +2124,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719681"
+      "createdAt": "2026-08-03T13:22:26.719681",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "5d2cbd2d-9620-4397-ae9e-86effdc68c2b",
@@ -1950,7 +2142,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719747"
+      "createdAt": "2026-08-03T13:22:26.719747",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "defaa7b4-4414-4425-a4b3-701a17735baf",
@@ -1966,7 +2160,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719818"
+      "createdAt": "2026-08-03T13:22:26.719818",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "20014b30-2857-47fa-9425-dcbda1689db6",
@@ -1982,7 +2178,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719890"
+      "createdAt": "2026-08-03T13:22:26.719890",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "44c3b953-c9db-4c05-b33f-715441d0cbf6",
@@ -1999,7 +2197,9 @@
         "Contractors-NY",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.719971"
+      "createdAt": "2026-08-03T13:22:26.719971",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "4367a4a0-6ea5-4b39-a66d-81a9d461587b",
@@ -2015,7 +2215,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.720040"
+      "createdAt": "2026-08-03T13:22:26.720040",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "e6930514-be4e-4331-8229-1610e6610b71",
@@ -2031,7 +2233,9 @@
       "tags": [
         "Contractors-ILL"
       ],
-      "createdAt": "2026-08-03T13:22:26.720110"
+      "createdAt": "2026-08-03T13:22:26.720110",
+      "state": "IL",
+      "country": "USA"
     },
     {
       "id": "7c046961-2588-4ce4-bcd1-d4c5fcfcf0dc",
@@ -2048,7 +2252,9 @@
         "Contractors-ILL",
         "FixtureManus"
       ],
-      "createdAt": "2026-08-03T13:22:26.720237"
+      "createdAt": "2026-08-03T13:22:26.720237",
+      "state": "IL",
+      "country": "USA"
     },
     {
       "id": "b43a3d90-5ef5-474a-848e-2c18bf92f415",
@@ -2064,7 +2270,9 @@
       "tags": [
         "Contractors-ILL"
       ],
-      "createdAt": "2026-08-03T13:22:26.720355"
+      "createdAt": "2026-08-03T13:22:26.720355",
+      "state": "IL",
+      "country": "USA"
     },
     {
       "id": "f7299030-3731-40fc-b40e-1ce7bbdd78a2",
@@ -2096,7 +2304,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.720530"
+      "createdAt": "2026-08-03T13:22:26.720530",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "5065ccbd-ae43-4ee8-b896-97ada29f1a9d",
@@ -2112,7 +2322,9 @@
       "tags": [
         "Contractors-UT"
       ],
-      "createdAt": "2026-08-03T13:22:26.720612"
+      "createdAt": "2026-08-03T13:22:26.720612",
+      "state": "UT",
+      "country": "USA"
     },
     {
       "id": "b1b8ae55-9ab9-4af3-bb46-fdc0520ac86d",
@@ -2129,7 +2341,9 @@
         "Contractors-UT",
         "Travel"
       ],
-      "createdAt": "2026-08-03T13:22:26.720683"
+      "createdAt": "2026-08-03T13:22:26.720683",
+      "state": "UT",
+      "country": "USA"
     },
     {
       "id": "d7e72319-abce-46f5-b820-1827cd7271e2",
@@ -2145,7 +2359,9 @@
       "tags": [
         "Contractors-UT"
       ],
-      "createdAt": "2026-08-03T13:22:26.720752"
+      "createdAt": "2026-08-03T13:22:26.720752",
+      "state": "UT",
+      "country": "USA"
     },
     {
       "id": "f22c9c91-b3f9-4bfe-a467-2fed17f49249",
@@ -2161,7 +2377,9 @@
       "tags": [
         "Contractors-UT"
       ],
-      "createdAt": "2026-08-03T13:22:26.720821"
+      "createdAt": "2026-08-03T13:22:26.720821",
+      "state": "UT",
+      "country": "USA"
     },
     {
       "id": "94542354-c2e4-4dd7-b91e-38f4f2c761c8",
@@ -2177,7 +2395,9 @@
       "tags": [
         "Contractors-UT"
       ],
-      "createdAt": "2026-08-03T13:22:26.720895"
+      "createdAt": "2026-08-03T13:22:26.720895",
+      "state": "UT",
+      "country": "USA"
     },
     {
       "id": "5de83f60-f6b5-4b05-b62b-de052ed72065",
@@ -2193,7 +2413,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.720966"
+      "createdAt": "2026-08-03T13:22:26.720966",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "f1e5f3ae-8ffb-45ad-b44f-64d67fa1fbe3",
@@ -2209,7 +2431,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.721041"
+      "createdAt": "2026-08-03T13:22:26.721041",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "568d9ed1-75e2-4aa6-bfd1-f082407bcf6c",
@@ -2225,7 +2449,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.721116"
+      "createdAt": "2026-08-03T13:22:26.721116",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "c608a9c1-088f-4518-abf3-53f281aad77b",
@@ -2241,7 +2467,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.721183"
+      "createdAt": "2026-08-03T13:22:26.721183",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "f7ac610a-20ed-423c-9d29-f313d1d724f1",
@@ -2257,7 +2485,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.721254"
+      "createdAt": "2026-08-03T13:22:26.721254",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "739190f6-e363-407f-83fa-16e778b02609",
@@ -2273,7 +2503,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.721329"
+      "createdAt": "2026-08-03T13:22:26.721329",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "8b67158c-c9b7-4c41-b50f-a91726f3df5e",
@@ -2305,7 +2537,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.721509"
+      "createdAt": "2026-08-03T13:22:26.721509",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "84714530-2629-4b65-9f8a-2039f7010774",
@@ -2323,7 +2557,9 @@
         "Monitoring",
         "MD"
       ],
-      "createdAt": "2026-08-03T13:22:26.721595"
+      "createdAt": "2026-08-03T13:22:26.721595",
+      "state": "MD",
+      "country": "USA"
     },
     {
       "id": "e38d73d7-eeac-46b2-a24e-7b544c2bf0be",
@@ -2340,7 +2576,9 @@
         "Contractors-FLA",
         "Monitoring"
       ],
-      "createdAt": "2026-08-03T13:22:26.721672"
+      "createdAt": "2026-08-03T13:22:26.721672",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "56fddb15-f254-4405-a407-1ab4ce607c5c",
@@ -2356,7 +2594,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.721748"
+      "createdAt": "2026-08-03T13:22:26.721748",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "a19a6b81-6a4d-4ba8-870a-f402b474728c",
@@ -2372,7 +2612,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.721816"
+      "createdAt": "2026-08-03T13:22:26.721816",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "be5d9ac0-9b2f-43db-98a3-56cfee99fad5",
@@ -2406,7 +2648,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.722011"
+      "createdAt": "2026-08-03T13:22:26.722011",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "37d3a994-558b-481d-b060-9cdb0ed3e7f7",
@@ -2422,7 +2666,9 @@
       "tags": [
         "Contractors-NC"
       ],
-      "createdAt": "2026-08-03T13:22:26.722083"
+      "createdAt": "2026-08-03T13:22:26.722083",
+      "state": "NC",
+      "country": "USA"
     },
     {
       "id": "957a9cc0-081d-4d0d-b8d2-5c10aa319781",
@@ -2438,7 +2684,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.722148"
+      "createdAt": "2026-08-03T13:22:26.722148",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3424b4a7-8d47-4c10-9fb9-86f0c1e3a16b",
@@ -2502,7 +2750,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.722403"
+      "createdAt": "2026-08-03T13:22:26.722403",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "4a4652ba-bad0-4007-ad1f-8bb5f5b2b488",
@@ -2518,7 +2768,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.722511"
+      "createdAt": "2026-08-03T13:22:26.722511",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "506ca9ad-8b54-41e7-93de-8b441c6a5b65",
@@ -2534,7 +2786,9 @@
       "tags": [
         "Contractors-MD"
       ],
-      "createdAt": "2026-08-03T13:22:26.722591"
+      "createdAt": "2026-08-03T13:22:26.722591",
+      "state": "MD",
+      "country": "USA"
     },
     {
       "id": "616e03ee-d115-4577-9fe5-bc0d2ab9a24e",
@@ -2550,7 +2804,9 @@
       "tags": [
         "Contractors-MD"
       ],
-      "createdAt": "2026-08-03T13:22:26.722660"
+      "createdAt": "2026-08-03T13:22:26.722660",
+      "state": "MD",
+      "country": "USA"
     },
     {
       "id": "a076ee33-4507-4a9a-b5cd-b247bbeaeda2",
@@ -2566,7 +2822,9 @@
       "tags": [
         "Contractors-MD"
       ],
-      "createdAt": "2026-08-03T13:22:26.722730"
+      "createdAt": "2026-08-03T13:22:26.722730",
+      "state": "MD",
+      "country": "USA"
     },
     {
       "id": "7f21b549-b3f5-4bb8-bf24-73d34408c8f0",
@@ -2583,7 +2841,9 @@
         "Contractors-MD",
         "MD"
       ],
-      "createdAt": "2026-08-03T13:22:26.722806"
+      "createdAt": "2026-08-03T13:22:26.722806",
+      "state": "MD",
+      "country": "USA"
     },
     {
       "id": "165dacd8-2215-4234-b2ca-d134422e60e9",
@@ -2600,7 +2860,9 @@
         "Contractors-MD",
         "MD"
       ],
-      "createdAt": "2026-08-03T13:22:26.722887"
+      "createdAt": "2026-08-03T13:22:26.722887",
+      "state": "MD",
+      "country": "USA"
     },
     {
       "id": "e6b7770a-4e67-43a2-ab05-14303931553a",
@@ -2635,7 +2897,9 @@
         "Contractors-CO",
         "CA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723029"
+      "createdAt": "2026-08-03T13:22:26.723029",
+      "state": "CA",
+      "country": "Canada"
     },
     {
       "id": "ecb10229-c785-4018-8781-063ecbe3d5cf",
@@ -2651,7 +2915,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723105"
+      "createdAt": "2026-08-03T13:22:26.723105",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "a4df1ed5-f2bb-4e17-8bc1-d83eed8402c4",
@@ -2667,7 +2933,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723176"
+      "createdAt": "2026-08-03T13:22:26.723176",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "a8d04e89-a66f-4fda-8764-5a100f19fb52",
@@ -2683,7 +2951,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723241"
+      "createdAt": "2026-08-03T13:22:26.723241",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "13628b42-5e24-418a-9042-9f72df30cd28",
@@ -2699,7 +2969,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723311"
+      "createdAt": "2026-08-03T13:22:26.723311",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "40afc3b4-e0c8-432a-8adf-fc82b9c8948d",
@@ -2715,7 +2987,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723382"
+      "createdAt": "2026-08-03T13:22:26.723382",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "dd95995d-92cc-40c3-9930-0f375443284e",
@@ -2731,7 +3005,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723451"
+      "createdAt": "2026-08-03T13:22:26.723451",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "c9c79a4d-d2cc-4f6c-af7a-94b0e6e18dc8",
@@ -2747,7 +3023,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723564"
+      "createdAt": "2026-08-03T13:22:26.723564",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "e60305b9-3e0d-4013-af3a-1262ad479ca6",
@@ -2763,7 +3041,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723634"
+      "createdAt": "2026-08-03T13:22:26.723634",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "f3786c1b-5c8c-4336-be18-e57ebdd3faca",
@@ -2779,7 +3059,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.723704"
+      "createdAt": "2026-08-03T13:22:26.723704",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "62006117-1bca-42a0-a579-eaac94ffc30d",
@@ -2796,7 +3078,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.723779"
+      "createdAt": "2026-08-03T13:22:26.723779",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "1e847a5e-810a-48bb-ab69-41952fa286b5",
@@ -2813,7 +3097,9 @@
         "Contractors-FLA",
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.723842"
+      "createdAt": "2026-08-03T13:22:26.723842",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "369c1348-2de7-420e-959b-f77df3e48eb8",
@@ -2830,7 +3116,9 @@
         "Contractors-NY",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.723921"
+      "createdAt": "2026-08-03T13:22:26.723921",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "b97db6ae-ec0e-4b72-ac00-9d51ac76d51f",
@@ -2846,7 +3134,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.723995"
+      "createdAt": "2026-08-03T13:22:26.723995",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "5abcdd92-084c-45ed-99a5-54d3afde333b",
@@ -2862,7 +3152,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.724063"
+      "createdAt": "2026-08-03T13:22:26.724063",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3faab59a-dcfd-4f28-988f-9348e92b0639",
@@ -2895,7 +3187,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.724238"
+      "createdAt": "2026-08-03T13:22:26.724238",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "e231a505-0f45-4e95-bdbc-12e3a153ea66",
@@ -2912,7 +3206,9 @@
         "Contractors-FLA",
         "Universities"
       ],
-      "createdAt": "2026-08-03T13:22:26.724319"
+      "createdAt": "2026-08-03T13:22:26.724319",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "16cebf8d-d114-4ed5-befb-5dcb2bbc42ff",
@@ -2929,7 +3225,9 @@
         "Contractors-FLA",
         "Universities"
       ],
-      "createdAt": "2026-08-03T13:22:26.724401"
+      "createdAt": "2026-08-03T13:22:26.724401",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3e5aac01-b393-4daa-a53a-75b8618ac205",
@@ -2945,7 +3243,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.724507"
+      "createdAt": "2026-08-03T13:22:26.724507",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3810ae20-08ea-41f4-8904-c87eb80b9466",
@@ -2962,7 +3262,9 @@
         "Contractors-FLA",
         "Universities"
       ],
-      "createdAt": "2026-08-03T13:22:26.724581"
+      "createdAt": "2026-08-03T13:22:26.724581",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "bc92633c-9a8c-4439-b311-9540b348d2eb",
@@ -2980,7 +3282,9 @@
         "Universities",
         "GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.724657"
+      "createdAt": "2026-08-03T13:22:26.724657",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "8ef849a1-c526-4fb7-9a35-e82b2c8feba5",
@@ -3012,7 +3316,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.724802"
+      "createdAt": "2026-08-03T13:22:26.724802",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "b83c9ae8-01ed-4985-90b8-85423faf8c6d",
@@ -3028,7 +3334,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.724886"
+      "createdAt": "2026-08-03T13:22:26.724886",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "98ade552-5cc8-4965-861c-1cf1c5da6800",
@@ -3045,7 +3353,9 @@
         "Contractors-FLA",
         "Universities"
       ],
-      "createdAt": "2026-08-03T13:22:26.724950"
+      "createdAt": "2026-08-03T13:22:26.724950",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "efb34d96-3572-4ce6-bcba-e85c333d7220",
@@ -3061,7 +3371,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.725013"
+      "createdAt": "2026-08-03T13:22:26.725013",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "1244d4f3-2cb8-43a7-baa4-d9c6ad3fb698",
@@ -3078,7 +3390,9 @@
         "Contractors-FLA",
         "Universities"
       ],
-      "createdAt": "2026-08-03T13:22:26.725097"
+      "createdAt": "2026-08-03T13:22:26.725097",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "9f4ce08b-7578-40cd-a5e2-d22376bcf5e7",
@@ -3090,12 +3404,14 @@
       "endCustomerType": "",
       "pipelineStage": "prospect",
       "dealValue": 0,
-      "notes": "Broward county elevator correspondence. Topics: Broward Health Medical Center; Elevator Modernization Update \u2013 HCA Aventura Hospital & Medical Center Week of 8/22/25. (regular correspondence, 15 msgs)",
+      "notes": "Broward county elevator correspondence. Topics: Broward Health Medical Center; Elevator Modernization Update – HCA Aventura Hospital & Medical Center Week of 8/22/25. (regular correspondence, 15 msgs)",
       "tags": [
         "Contractors-FLA",
         "FL"
       ],
-      "createdAt": "2026-08-03T13:22:26.725190"
+      "createdAt": "2026-08-03T13:22:26.725190",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "b004dad2-0476-4401-8155-1a1f606de4f8",
@@ -3114,7 +3430,9 @@
         "Universities",
         "GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.725268"
+      "createdAt": "2026-08-03T13:22:26.725268",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "b9a43411-ed5a-4b8c-93db-6409d986f2a8",
@@ -3130,7 +3448,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.725348"
+      "createdAt": "2026-08-03T13:22:26.725348",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "629e387c-09d8-4068-8211-53247e270154",
@@ -3146,7 +3466,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.725419"
+      "createdAt": "2026-08-03T13:22:26.725419",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "e53a6f0c-20a3-4689-a080-e0a12b99e9e6",
@@ -3162,7 +3484,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.725522"
+      "createdAt": "2026-08-03T13:22:26.725522",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "ffed2700-04f7-48b2-8d1d-33ffaf96cc4a",
@@ -3212,7 +3536,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.725750"
+      "createdAt": "2026-08-03T13:22:26.725750",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "c0289d73-1fe2-4de1-9284-82ce2abdae27",
@@ -3229,7 +3555,9 @@
         "Contractors-FLA",
         "Universities"
       ],
-      "createdAt": "2026-08-03T13:22:26.725821"
+      "createdAt": "2026-08-03T13:22:26.725821",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "a4070587-be8b-4930-9815-9a066b0bd72a",
@@ -3247,7 +3575,9 @@
         "Universities",
         "GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.725906"
+      "createdAt": "2026-08-03T13:22:26.725906",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "072fd1da-5195-499f-887a-83d41c2dc857",
@@ -3263,7 +3593,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.725981"
+      "createdAt": "2026-08-03T13:22:26.725981",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "0926f59b-5abc-4f3e-b9bb-3ab6df3fdf2e",
@@ -3279,7 +3611,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.726042"
+      "createdAt": "2026-08-03T13:22:26.726042",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "ba8319a2-c601-4a7a-a337-10ad80bc0755",
@@ -3295,7 +3629,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.726122"
+      "createdAt": "2026-08-03T13:22:26.726122",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "2724a65d-bd6a-4360-84b1-4d376c0e8d73",
@@ -3311,7 +3647,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.726184"
+      "createdAt": "2026-08-03T13:22:26.726184",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "94bc3493-5243-483c-a1fa-b49cac36086e",
@@ -3407,7 +3745,9 @@
       "tags": [
         "Contractors-TX"
       ],
-      "createdAt": "2026-08-03T13:22:26.726607"
+      "createdAt": "2026-08-03T13:22:26.726607",
+      "state": "TX",
+      "country": "USA"
     },
     {
       "id": "b76dac91-22ee-4b66-8fc5-29edbccf5ff3",
@@ -3427,7 +3767,9 @@
         "Universities",
         "GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.726668"
+      "createdAt": "2026-08-03T13:22:26.726668",
+      "state": "TX",
+      "country": "USA"
     },
     {
       "id": "d141b0dc-13cc-4de0-a707-3a533963144d",
@@ -3477,7 +3819,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.726860"
+      "createdAt": "2026-08-03T13:22:26.726860",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "9dc3f61d-fccf-4ee1-9def-d55d410e7a00",
@@ -3494,7 +3838,9 @@
         "Contractors-FLA",
         "Monitoring"
       ],
-      "createdAt": "2026-08-03T13:22:26.726929"
+      "createdAt": "2026-08-03T13:22:26.726929",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3ec4ffcf-a3ae-4a32-ad4d-d7621ef6aca5",
@@ -3687,7 +4033,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.727693"
+      "createdAt": "2026-08-03T13:22:26.727693",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "570f854f-9979-4a4e-ad13-a5ce8d5577dd",
@@ -3703,7 +4051,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.727749"
+      "createdAt": "2026-08-03T13:22:26.727749",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "bfd9feee-6971-497a-88c5-7bce3cdcab28",
@@ -3720,7 +4070,9 @@
         "Contractors-CANADA",
         "Travel"
       ],
-      "createdAt": "2026-08-03T13:22:26.727805"
+      "createdAt": "2026-08-03T13:22:26.727805",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "60a23bdb-c8d1-4b34-b66d-43d5363d014a",
@@ -3736,7 +4088,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.727861"
+      "createdAt": "2026-08-03T13:22:26.727861",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "a7012414-ab73-4862-9a88-264533234f6a",
@@ -3752,7 +4106,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.727923"
+      "createdAt": "2026-08-03T13:22:26.727923",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "c2ad4d84-5a25-468c-969c-e4de041c36d5",
@@ -3768,7 +4124,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.727980"
+      "createdAt": "2026-08-03T13:22:26.727980",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "db81f2eb-e567-464d-901c-58e0f3144830",
@@ -3784,7 +4142,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.728036"
+      "createdAt": "2026-08-03T13:22:26.728036",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "8e96f695-ec19-46ee-af6e-48783fc8a7f9",
@@ -3801,7 +4161,9 @@
         "Contractors-CANADA",
         "Monitoring"
       ],
-      "createdAt": "2026-08-03T13:22:26.728092"
+      "createdAt": "2026-08-03T13:22:26.728092",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "80d703cb-914e-4732-89b6-3a99b5485f03",
@@ -3817,7 +4179,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.728151"
+      "createdAt": "2026-08-03T13:22:26.728151",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "3eed61a7-d720-42f0-836e-5217b2435015",
@@ -3833,7 +4197,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.728250"
+      "createdAt": "2026-08-03T13:22:26.728250",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "2650bae1-0f63-44b1-befb-658724404611",
@@ -3849,7 +4215,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.728313"
+      "createdAt": "2026-08-03T13:22:26.728313",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "e81059e8-53e1-4da8-9541-24e326ac7129",
@@ -3865,7 +4233,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.728370"
+      "createdAt": "2026-08-03T13:22:26.728370",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "1aec2a3f-d17f-4c13-9d58-6bb78078d11f",
@@ -3881,7 +4251,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.728426"
+      "createdAt": "2026-08-03T13:22:26.728426",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "d654da42-fad2-47bb-8cda-9b1a8dd0006b",
@@ -3897,7 +4269,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.728509"
+      "createdAt": "2026-08-03T13:22:26.728509",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "5525eb7b-9eea-4a73-8ca0-6a8c2c094ca1",
@@ -3913,7 +4287,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.728572"
+      "createdAt": "2026-08-03T13:22:26.728572",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "5c0b15bf-dd73-40af-b399-469bd8db5f9a",
@@ -3930,7 +4306,9 @@
         "Contractors-FLA",
         "FL"
       ],
-      "createdAt": "2026-08-03T13:22:26.728631"
+      "createdAt": "2026-08-03T13:22:26.728631",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "980b8835-2dac-403f-a46a-5beefb97e816",
@@ -3946,7 +4324,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.728704"
+      "createdAt": "2026-08-03T13:22:26.728704",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "2be260fe-a306-4186-9e47-194701226a25",
@@ -3963,7 +4343,9 @@
         "Universities",
         "FL"
       ],
-      "createdAt": "2026-08-03T13:22:26.728780"
+      "createdAt": "2026-08-03T13:22:26.728780",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "929d5d88-c10e-4cc1-bc53-1eab1dcc6ad2",
@@ -3982,7 +4364,9 @@
         "Monitoring",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.728849"
+      "createdAt": "2026-08-03T13:22:26.728849",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "20bcb7f9-1b32-4ad3-b600-b406c2edda0a",
@@ -4001,7 +4385,9 @@
         "Monitoring",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.728921"
+      "createdAt": "2026-08-03T13:22:26.728921",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "12e22c4e-5a97-44c3-9290-6ef78a2c89a4",
@@ -4042,7 +4428,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.729041"
+      "createdAt": "2026-08-03T13:22:26.729041",
+      "state": "FL",
+      "country": "Canada"
     },
     {
       "id": "ec94c6b8-01d0-48e5-b8d6-48c093067ca8",
@@ -4219,7 +4607,9 @@
         "Admin",
         "NJ"
       ],
-      "createdAt": "2026-08-03T13:22:26.729725"
+      "createdAt": "2026-08-03T13:22:26.729725",
+      "state": "NJ",
+      "country": "USA"
     },
     {
       "id": "2bba9552-95ef-4da1-b0fe-03827ddd3af5",
@@ -4235,7 +4625,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.729781"
+      "createdAt": "2026-08-03T13:22:26.729781",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "bf068d0b-97f4-4f69-9212-0c0e0d99f5a7",
@@ -4251,7 +4643,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.729838"
+      "createdAt": "2026-08-03T13:22:26.729838",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "cdbf62e6-84de-4b29-8e94-004be30687f5",
@@ -4332,7 +4726,9 @@
         "Contractors-FLA",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.730126"
+      "createdAt": "2026-08-03T13:22:26.730126",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "75bc9c3a-cd8c-4255-a5d2-9892a9c0c439",
@@ -4350,7 +4746,9 @@
         "EndCustomer",
         "FixtureManus"
       ],
-      "createdAt": "2026-08-03T13:22:26.730182"
+      "createdAt": "2026-08-03T13:22:26.730182",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "c0a21bed-b8b5-4c75-9587-abda3f71eefd",
@@ -4496,7 +4894,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.730752"
+      "createdAt": "2026-08-03T13:22:26.730752",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "51662e0f-a0ee-4be6-a9b2-a88e5c8d546b",
@@ -4514,7 +4914,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.730815"
+      "createdAt": "2026-08-03T13:22:26.730815",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "0b6ea4f1-21c7-49c8-9b52-5aa61028fb55",
@@ -4531,7 +4933,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.730879"
+      "createdAt": "2026-08-03T13:22:26.730879",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "40fab9d5-f49b-42ac-8e90-cd1c88b6ab1b",
@@ -4549,7 +4953,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.730939"
+      "createdAt": "2026-08-03T13:22:26.730939",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "45527ff1-8365-4f0d-99ee-94e379efea34",
@@ -4567,7 +4973,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.731009"
+      "createdAt": "2026-08-03T13:22:26.731009",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "a77381a4-3273-4d35-9404-c180ab5da516",
@@ -4584,7 +4992,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.731070"
+      "createdAt": "2026-08-03T13:22:26.731070",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "36e0934a-8661-49a8-a786-328b29cd4718",
@@ -4602,7 +5012,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.731137"
+      "createdAt": "2026-08-03T13:22:26.731137",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "29e24b81-0cdb-46b3-a787-3c4ba1a54940",
@@ -4620,7 +5032,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.731211"
+      "createdAt": "2026-08-03T13:22:26.731211",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "aeb73cd9-5ce5-4427-a418-3d2d605a8885",
@@ -4734,7 +5148,9 @@
         "Travel",
         "TX"
       ],
-      "createdAt": "2026-08-03T13:22:26.731721"
+      "createdAt": "2026-08-03T13:22:26.731721",
+      "state": "TX",
+      "country": "USA"
     },
     {
       "id": "33734cb2-1789-4668-88e5-1821d6b4623d",
@@ -4762,14 +5178,16 @@
       "endCustomerType": "",
       "pipelineStage": "prospect",
       "dealValue": 0,
-      "notes": "Illinois contractors correspondence. Topics: Wurtec two way visual communication; \u0391\u03c0: Wurtec two way visual communication; Wurtec two way visual communication - 134 Center Avenue. (regular correspondence, 21 msgs)",
+      "notes": "Illinois contractors correspondence. Topics: Wurtec two way visual communication; Απ: Wurtec two way visual communication; Wurtec two way visual communication - 134 Center Avenue. (regular correspondence, 21 msgs)",
       "tags": [
         "Contractors-ILL",
         "Contractors-INT",
         "Contractors-INTL",
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.731833"
+      "createdAt": "2026-08-03T13:22:26.731833",
+      "state": "IL",
+      "country": "USA"
     },
     {
       "id": "51c659bb-a480-4dec-809d-2f371c8d5316",
@@ -4781,14 +5199,16 @@
       "endCustomerType": "",
       "pipelineStage": "prospect",
       "dealValue": 0,
-      "notes": "Illinois contractors correspondence. Topics: Wurtec two way visual communication; \u0391\u03c0: Wurtec two way visual communication; Wurtec two way visual communication - 134 Center Avenue. (regular correspondence, 22 msgs)",
+      "notes": "Illinois contractors correspondence. Topics: Wurtec two way visual communication; Απ: Wurtec two way visual communication; Wurtec two way visual communication - 134 Center Avenue. (regular correspondence, 22 msgs)",
       "tags": [
         "Contractors-ILL",
         "Contractors-INT",
         "Contractors-INTL",
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.731896"
+      "createdAt": "2026-08-03T13:22:26.731896",
+      "state": "IL",
+      "country": "USA"
     },
     {
       "id": "667fd69e-7896-4816-ba31-86afec75e5fd",
@@ -4800,14 +5220,16 @@
       "endCustomerType": "",
       "pipelineStage": "prospect",
       "dealValue": 0,
-      "notes": "Illinois contractors correspondence. Topics: Wurtec two way visual communication; \u0391\u03c0: Wurtec two way visual communication; Wurtec two way visual communication - 134 Center Avenue. (regular correspondence, 22 msgs)",
+      "notes": "Illinois contractors correspondence. Topics: Wurtec two way visual communication; Απ: Wurtec two way visual communication; Wurtec two way visual communication - 134 Center Avenue. (regular correspondence, 22 msgs)",
       "tags": [
         "Contractors-ILL",
         "Contractors-INT",
         "Contractors-INTL",
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.731955"
+      "createdAt": "2026-08-03T13:22:26.731955",
+      "state": "IL",
+      "country": "USA"
     },
     {
       "id": "4f97bb55-6afd-4d39-adc4-61f2c4db9d17",
@@ -4874,7 +5296,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.732286"
+      "createdAt": "2026-08-03T13:22:26.732286",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "c03e8235-cdff-4efb-b36a-b164b1146ac0",
@@ -4890,7 +5314,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.732371"
+      "createdAt": "2026-08-03T13:22:26.732371",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "dadc688f-ae70-46e3-9f2d-27600ac3baf3",
@@ -4906,7 +5332,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.732527"
+      "createdAt": "2026-08-03T13:22:26.732527",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "38224120-0443-47fa-af4f-50c09a3a913b",
@@ -4922,7 +5350,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.732609"
+      "createdAt": "2026-08-03T13:22:26.732609",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "8bbaa66f-e7e3-44a7-8d0e-642adfce1acc",
@@ -4938,7 +5368,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.732679"
+      "createdAt": "2026-08-03T13:22:26.732679",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "d27aac6a-94fc-496f-aff0-48baf6a7eae1",
@@ -4955,7 +5387,9 @@
         "Contractors-NY",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.732740"
+      "createdAt": "2026-08-03T13:22:26.732740",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "a0096734-ce56-4303-a752-b7becf814cd1",
@@ -4971,7 +5405,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.732795"
+      "createdAt": "2026-08-03T13:22:26.732795",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "ccc9c128-68f3-40b5-bd6b-488c508d5973",
@@ -4987,7 +5423,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.732850"
+      "createdAt": "2026-08-03T13:22:26.732850",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "3945caf6-723d-4950-a3f9-5ed4ea8baeda",
@@ -5003,7 +5441,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.732963"
+      "createdAt": "2026-08-03T13:22:26.732963",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "0d7c4ba4-5959-462e-8220-4eebfda6209b",
@@ -5019,7 +5459,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.733022"
+      "createdAt": "2026-08-03T13:22:26.733022",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "eca80046-cd49-430d-83c7-5314099add30",
@@ -5035,7 +5477,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.733078"
+      "createdAt": "2026-08-03T13:22:26.733078",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "ad3b2a7f-8905-47bb-94aa-f6d9a9ae0c5d",
@@ -5051,7 +5495,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.733134"
+      "createdAt": "2026-08-03T13:22:26.733134",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "c693e420-eb64-4d19-ba5b-f9f0cf6848f4",
@@ -5068,7 +5514,9 @@
         "Contractors-NY",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.733194"
+      "createdAt": "2026-08-03T13:22:26.733194",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "dba44534-cc87-4002-b34b-0c8ef09c6096",
@@ -5084,7 +5532,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.733263"
+      "createdAt": "2026-08-03T13:22:26.733263",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "801dcee3-7923-45c7-90da-287be3e30308",
@@ -5100,7 +5550,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.733320"
+      "createdAt": "2026-08-03T13:22:26.733320",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "9398a70a-f201-4a78-ac3a-e15f2e1823f5",
@@ -5118,7 +5570,9 @@
         "FixtureManus",
         "FL"
       ],
-      "createdAt": "2026-08-03T13:22:26.733379"
+      "createdAt": "2026-08-03T13:22:26.733379",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "b97243b0-be99-43c5-b5a0-1a219ba87812",
@@ -5228,7 +5682,7 @@
       "endCustomerType": "",
       "pipelineStage": "prospect",
       "dealValue": 0,
-      "notes": "International contractors correspondence. Topics: \u0391\u03c0: Wurtec two way visual communication - 134 Center Avenue. (limited correspondence, 1 msgs)",
+      "notes": "International contractors correspondence. Topics: Απ: Wurtec two way visual communication - 134 Center Avenue. (limited correspondence, 1 msgs)",
       "tags": [
         "Contractors-INT"
       ],
@@ -5250,7 +5704,9 @@
         "Travel",
         "NJ"
       ],
-      "createdAt": "2026-08-03T13:22:26.734181"
+      "createdAt": "2026-08-03T13:22:26.734181",
+      "state": "NJ",
+      "country": "USA"
     },
     {
       "id": "4798105c-ff07-4e6e-933c-1b6c001ec581",
@@ -5284,7 +5740,9 @@
         "Consultants",
         "NJ"
       ],
-      "createdAt": "2026-08-03T13:22:26.734296"
+      "createdAt": "2026-08-03T13:22:26.734296",
+      "state": "NJ",
+      "country": "USA"
     },
     {
       "id": "f722d458-c350-4cc8-b24b-6ef37ecbaa26",
@@ -5589,7 +6047,9 @@
         "OEMs",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.735709"
+      "createdAt": "2026-08-03T13:22:26.735709",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "b69b6319-6f4a-46f1-b032-8e302859731d",
@@ -5606,7 +6066,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.735772"
+      "createdAt": "2026-08-03T13:22:26.735772",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "7b0a854a-6d0a-4a26-8ffd-8bc88dee23b4",
@@ -5622,7 +6084,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.735829"
+      "createdAt": "2026-08-03T13:22:26.735829",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "aebc3e1e-f6ce-4a73-a0fc-8c1e04837524",
@@ -5654,7 +6118,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.735988"
+      "createdAt": "2026-08-03T13:22:26.735988",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "c86d0c2c-5cac-4c3e-b4db-80128aa214e1",
@@ -5671,7 +6137,9 @@
         "OEMs",
         "FL"
       ],
-      "createdAt": "2026-08-03T13:22:26.736049"
+      "createdAt": "2026-08-03T13:22:26.736049",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "2953f492-fe9b-4b47-a271-82df71de7468",
@@ -5704,7 +6172,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.736163"
+      "createdAt": "2026-08-03T13:22:26.736163",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "e4103763-b141-4ecb-a57c-65746578216f",
@@ -5722,7 +6192,9 @@
         "OEMs",
         "FL"
       ],
-      "createdAt": "2026-08-03T13:22:26.736317"
+      "createdAt": "2026-08-03T13:22:26.736317",
+      "state": "FL",
+      "country": "Canada"
     },
     {
       "id": "77f81a55-c692-4dee-922a-5e33402fbb83",
@@ -5738,7 +6210,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.736402"
+      "createdAt": "2026-08-03T13:22:26.736402",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "097ffbee-a06e-40d0-83a3-eb6cbb352e48",
@@ -5754,7 +6228,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.736495"
+      "createdAt": "2026-08-03T13:22:26.736495",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "0382cb22-3aa5-4a69-963c-dca16b93bf50",
@@ -5771,7 +6247,9 @@
         "OEMs",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.736563"
+      "createdAt": "2026-08-03T13:22:26.736563",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "ac0f7999-cf2c-4e9c-bf6e-6d067a85eb3c",
@@ -5804,7 +6282,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.736679"
+      "createdAt": "2026-08-03T13:22:26.736679",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "bbe77a56-31bb-4b4a-865b-324e48dae5ac",
@@ -5821,7 +6301,9 @@
         "OEMs",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.736809"
+      "createdAt": "2026-08-03T13:22:26.736809",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "dd86a76c-d53c-479a-bbca-f7bb11a297f5",
@@ -5854,7 +6336,9 @@
         "OEMs",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.736972"
+      "createdAt": "2026-08-03T13:22:26.736972",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "bde48343-b60c-4935-b149-a2ee56d017e2",
@@ -5871,7 +6355,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.737031"
+      "createdAt": "2026-08-03T13:22:26.737031",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "4dd7e5fd-f3e8-4996-a389-f462067d7299",
@@ -5887,7 +6373,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.737096"
+      "createdAt": "2026-08-03T13:22:26.737096",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "a1715878-64f2-458e-8bb1-c87f46354ae7",
@@ -5919,7 +6407,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.737234"
+      "createdAt": "2026-08-03T13:22:26.737234",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "a0c7c484-57df-463a-b678-6c2fe490503d",
@@ -5952,7 +6442,9 @@
         "OEMs",
         "GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.737392"
+      "createdAt": "2026-08-03T13:22:26.737392",
+      "state": "GA",
+      "country": "USA"
     },
     {
       "id": "b12b9c00-0a69-4e47-ae28-eab3f857660c",
@@ -5968,7 +6460,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.737501"
+      "createdAt": "2026-08-03T13:22:26.737501",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "5315bd1a-98ec-4fea-954e-b69c7b4f04c7",
@@ -6000,7 +6494,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.737674"
+      "createdAt": "2026-08-03T13:22:26.737674",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "d257e7aa-cd77-457f-b03e-4fba0365b9ec",
@@ -6016,7 +6512,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.737730"
+      "createdAt": "2026-08-03T13:22:26.737730",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "6e1d7baa-34a2-49a6-addb-f9b451480595",
@@ -6032,7 +6530,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.737785"
+      "createdAt": "2026-08-03T13:22:26.737785",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "b0225937-f073-4b3e-9164-45136cdde1d3",
@@ -6065,7 +6565,9 @@
         "Contractors-NY",
         "Monitoring"
       ],
-      "createdAt": "2026-08-03T13:22:26.737904"
+      "createdAt": "2026-08-03T13:22:26.737904",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "ff267a4d-0b6a-4ed1-a788-dadd27b517aa",
@@ -6114,7 +6616,9 @@
         "Consultants",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.738093"
+      "createdAt": "2026-08-03T13:22:26.738093",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "9a53bd56-70f8-4062-b1d6-20fb817c68f6",
@@ -6179,7 +6683,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.738370"
+      "createdAt": "2026-08-03T13:22:26.738370",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "77e1962a-4cfb-49eb-a2f4-82b9bc39c712",
@@ -6195,7 +6701,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.738425"
+      "createdAt": "2026-08-03T13:22:26.738425",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "d18ab5c0-0c12-453b-be17-4c61db5425ea",
@@ -6211,7 +6719,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.738509"
+      "createdAt": "2026-08-03T13:22:26.738509",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "6814fc7e-c602-4ab2-9832-6132e575d059",
@@ -6227,7 +6737,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.738573"
+      "createdAt": "2026-08-03T13:22:26.738573",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "ab3caedd-d99a-4aca-a271-62dbf982d317",
@@ -6243,7 +6755,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.738630"
+      "createdAt": "2026-08-03T13:22:26.738630",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "708773c7-5d91-4ad7-8b86-305b224ff32b",
@@ -6259,7 +6773,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.738685"
+      "createdAt": "2026-08-03T13:22:26.738685",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "ff202870-9191-4921-ba06-ca6c202d1ff8",
@@ -6275,7 +6791,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.738785"
+      "createdAt": "2026-08-03T13:22:26.738785",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "f9850a3a-e49b-476e-94b1-f545fc4930c8",
@@ -6291,7 +6809,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.738847"
+      "createdAt": "2026-08-03T13:22:26.738847",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "6fef56a3-5ed5-4771-b5b8-a348e334702c",
@@ -6307,7 +6827,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.738949"
+      "createdAt": "2026-08-03T13:22:26.738949",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "45fd8ed9-5e34-4511-93f5-9e0ffba33684",
@@ -6437,7 +6959,9 @@
         "Contractors-CANADA",
         "FixtureManus"
       ],
-      "createdAt": "2026-08-03T13:22:26.739414"
+      "createdAt": "2026-08-03T13:22:26.739414",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "2293183d-be0f-420b-bd3c-e895a5e1dcea",
@@ -6454,7 +6978,9 @@
         "Contractors-CANADA",
         "FixtureManus"
       ],
-      "createdAt": "2026-08-03T13:22:26.739521"
+      "createdAt": "2026-08-03T13:22:26.739521",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "49d95cc8-8c6f-4eb6-be5d-13b036fc8fa8",
@@ -6470,7 +6996,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.739737"
+      "createdAt": "2026-08-03T13:22:26.739737",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "5ec0b653-3ea3-42c3-b493-eab800c590a1",
@@ -6502,7 +7030,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.739852"
+      "createdAt": "2026-08-03T13:22:26.739852",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "2511e270-2d02-462a-a863-aa91c563142a",
@@ -6518,7 +7048,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.739922"
+      "createdAt": "2026-08-03T13:22:26.739922",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "94477b29-0e80-49b6-9647-a66a286ac4ce",
@@ -6534,7 +7066,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.739992"
+      "createdAt": "2026-08-03T13:22:26.739992",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "943e72fa-f996-4703-bd4a-6b471e60156e",
@@ -6550,7 +7084,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.740049"
+      "createdAt": "2026-08-03T13:22:26.740049",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "37277238-f9a4-424f-83d5-9cf250b32700",
@@ -6583,7 +7119,9 @@
         "Contractors-CANADA",
         "FixtureManus"
       ],
-      "createdAt": "2026-08-03T13:22:26.740208"
+      "createdAt": "2026-08-03T13:22:26.740208",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "cb381367-ad3e-499b-adf7-a5e68e682236",
@@ -6599,7 +7137,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.740283"
+      "createdAt": "2026-08-03T13:22:26.740283",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "be2a1700-615b-43e0-9dcf-a56bfc86cb67",
@@ -6616,7 +7156,9 @@
         "Contractors-CANADA",
         "FixtureManus"
       ],
-      "createdAt": "2026-08-03T13:22:26.740343"
+      "createdAt": "2026-08-03T13:22:26.740343",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "ac684099-8375-404e-aaff-2575f2af6633",
@@ -6632,7 +7174,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.740445"
+      "createdAt": "2026-08-03T13:22:26.740445",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "ffcf2763-79c2-417f-92b9-a094f707d998",
@@ -6665,7 +7209,9 @@
         "Universities",
         "SC"
       ],
-      "createdAt": "2026-08-03T13:22:26.740597"
+      "createdAt": "2026-08-03T13:22:26.740597",
+      "state": "SC",
+      "country": "USA"
     },
     {
       "id": "725f419a-d2a2-4854-8624-5d0a85ccdb77",
@@ -6682,7 +7228,9 @@
         "Universities",
         "SC"
       ],
-      "createdAt": "2026-08-03T13:22:26.740655"
+      "createdAt": "2026-08-03T13:22:26.740655",
+      "state": "SC",
+      "country": "USA"
     },
     {
       "id": "1b9e12ec-b41d-4824-a473-a6901ecbf27c",
@@ -6700,7 +7248,9 @@
         "Universities",
         "SC"
       ],
-      "createdAt": "2026-08-03T13:22:26.740716"
+      "createdAt": "2026-08-03T13:22:26.740716",
+      "state": "SC",
+      "country": "USA"
     },
     {
       "id": "e35585f0-3eb7-4bc6-ba96-6d6b56a766cb",
@@ -6717,7 +7267,9 @@
         "FixtureManus",
         "SC"
       ],
-      "createdAt": "2026-08-03T13:22:26.740775"
+      "createdAt": "2026-08-03T13:22:26.740775",
+      "state": "SC",
+      "country": "USA"
     },
     {
       "id": "8e515e2c-6bf9-40f1-9b7b-c3842dbc6626",
@@ -6735,7 +7287,9 @@
         "Universities",
         "SC"
       ],
-      "createdAt": "2026-08-03T13:22:26.740834"
+      "createdAt": "2026-08-03T13:22:26.740834",
+      "state": "SC",
+      "country": "USA"
     },
     {
       "id": "d26f007a-2ab5-45a4-9921-a7f7f15d3d74",
@@ -6784,7 +7338,9 @@
         "Travel",
         "CA"
       ],
-      "createdAt": "2026-08-03T13:22:26.741018"
+      "createdAt": "2026-08-03T13:22:26.741018",
+      "state": "CA",
+      "country": "USA"
     },
     {
       "id": "7caee0bf-cf14-4344-85bd-74f0e4064189",
@@ -6800,7 +7356,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.741235"
+      "createdAt": "2026-08-03T13:22:26.741235",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "9b30a267-1270-4b54-9a05-fd0eae1a876e",
@@ -6817,7 +7375,9 @@
         "Contractors-FLA",
         "Monitoring"
       ],
-      "createdAt": "2026-08-03T13:22:26.741294"
+      "createdAt": "2026-08-03T13:22:26.741294",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "c6871feb-8d3e-4486-af97-67626844294d",
@@ -6834,7 +7394,9 @@
         "Contractors-FLA",
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.741351"
+      "createdAt": "2026-08-03T13:22:26.741351",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "870ea740-a931-4b01-83d4-0136711b760b",
@@ -6850,7 +7412,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.741419"
+      "createdAt": "2026-08-03T13:22:26.741419",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "0d7cb164-c661-4d85-9be6-2ac4293214eb",
@@ -6867,7 +7431,9 @@
         "Contractors-FLA",
         "Monitoring"
       ],
-      "createdAt": "2026-08-03T13:22:26.741509"
+      "createdAt": "2026-08-03T13:22:26.741509",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "770c6007-f7c9-4da6-93f6-521c15264c3a",
@@ -6884,7 +7450,9 @@
         "Contractors-FLA",
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.741583"
+      "createdAt": "2026-08-03T13:22:26.741583",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "9cc85ea0-923c-4301-8270-c586264dae77",
@@ -6902,7 +7470,9 @@
         "Contractors-NY",
         "FL"
       ],
-      "createdAt": "2026-08-03T13:22:26.741657"
+      "createdAt": "2026-08-03T13:22:26.741657",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "394ae128-7745-4e87-acc2-0d1a5efd3809",
@@ -6919,7 +7489,9 @@
         "Contractors-NY",
         "Contractors-TX"
       ],
-      "createdAt": "2026-08-03T13:22:26.741715"
+      "createdAt": "2026-08-03T13:22:26.741715",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "08aab76c-f30c-4da1-b2fc-251636825642",
@@ -6935,7 +7507,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.741770"
+      "createdAt": "2026-08-03T13:22:26.741770",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "4f44801b-85a5-4c2b-82d4-4e1b3198da67",
@@ -6951,7 +7525,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.741834"
+      "createdAt": "2026-08-03T13:22:26.741834",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "ad3291b1-88ae-470f-8b1b-8f16cc30a933",
@@ -6967,7 +7543,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.741951"
+      "createdAt": "2026-08-03T13:22:26.741951",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "f1e50c8a-9085-441e-8ede-4179fc97f0e2",
@@ -6983,7 +7561,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.742090"
+      "createdAt": "2026-08-03T13:22:26.742090",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "2030b186-3595-4680-b0a1-138185cbdfc8",
@@ -6999,7 +7579,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.742157"
+      "createdAt": "2026-08-03T13:22:26.742157",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "187bd7f6-edd7-4ca9-934a-a82aadab8eb8",
@@ -7015,7 +7597,9 @@
       "tags": [
         "Contractors-TX"
       ],
-      "createdAt": "2026-08-03T13:22:26.742229"
+      "createdAt": "2026-08-03T13:22:26.742229",
+      "state": "TX",
+      "country": "USA"
     },
     {
       "id": "89609a33-c2e8-45a5-8361-391f72a0c5a3",
@@ -7031,7 +7615,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.742294"
+      "createdAt": "2026-08-03T13:22:26.742294",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "60457708-00a6-4978-ae37-65e160aba5e0",
@@ -7047,7 +7633,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.742362"
+      "createdAt": "2026-08-03T13:22:26.742362",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "ddb7ea69-5699-467c-91fa-f0be98f234b9",
@@ -7063,7 +7651,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.742436"
+      "createdAt": "2026-08-03T13:22:26.742436",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "eab57852-3bc5-48e2-959e-4ddd12fd8184",
@@ -7130,7 +7720,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.742806"
+      "createdAt": "2026-08-03T13:22:26.742806",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "bff3987a-8408-414c-8c5b-b573597fa714",
@@ -7147,7 +7739,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.742872"
+      "createdAt": "2026-08-03T13:22:26.742872",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "12aea744-8560-4f52-a09f-58d8ad7af95b",
@@ -7164,7 +7758,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.742947"
+      "createdAt": "2026-08-03T13:22:26.742947",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "c76ac527-f4ac-4c7e-ae90-37af5f9a3dde",
@@ -7181,7 +7777,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.743014"
+      "createdAt": "2026-08-03T13:22:26.743014",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "20722d99-5128-41a9-b8f1-4e291986149f",
@@ -7198,7 +7796,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.743079"
+      "createdAt": "2026-08-03T13:22:26.743079",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "52164eb8-4174-41b1-ac22-5938a3309002",
@@ -7215,7 +7815,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.743151"
+      "createdAt": "2026-08-03T13:22:26.743151",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "6925ca35-7688-47a9-9f14-680a219eb631",
@@ -7232,7 +7834,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.743214"
+      "createdAt": "2026-08-03T13:22:26.743214",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "92ba3685-0691-4474-9614-34a5d142b0e8",
@@ -7249,7 +7853,9 @@
         "Universities",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.743280"
+      "createdAt": "2026-08-03T13:22:26.743280",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "58694017-423c-4fed-830e-660e6f7d6012",
@@ -7265,7 +7871,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.743351"
+      "createdAt": "2026-08-03T13:22:26.743351",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "8653263f-3642-46fa-a218-ce8875db6f93",
@@ -7281,7 +7889,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.743410"
+      "createdAt": "2026-08-03T13:22:26.743410",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "58d0880c-1a15-4a89-bea0-1972b0cef8d0",
@@ -7297,7 +7907,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.743643"
+      "createdAt": "2026-08-03T13:22:26.743643",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "852f5861-eb4d-4472-8c29-3b6bcfa455cd",
@@ -7378,7 +7990,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.743993"
+      "createdAt": "2026-08-03T13:22:26.743993",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "fd4b65d8-7716-477f-bd29-781bdb5000ec",
@@ -7394,7 +8008,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.744048"
+      "createdAt": "2026-08-03T13:22:26.744048",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "3973b5ca-6274-4c1c-b6d8-1bd13119e92b",
@@ -7410,7 +8026,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.744104"
+      "createdAt": "2026-08-03T13:22:26.744104",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "1af98648-2f15-4c9d-9a6b-79ab28ca8d06",
@@ -7426,7 +8044,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.744160"
+      "createdAt": "2026-08-03T13:22:26.744160",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "6f2f1747-2dc4-40ed-bc29-24d2a65d350c",
@@ -7442,7 +8062,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.744265"
+      "createdAt": "2026-08-03T13:22:26.744265",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "65830151-5c79-42f9-9049-8c23da291dd8",
@@ -7458,7 +8080,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.744372"
+      "createdAt": "2026-08-03T13:22:26.744372",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "b9461cf1-77ba-40e3-a1a3-c6afe3375b74",
@@ -7474,7 +8098,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.744440"
+      "createdAt": "2026-08-03T13:22:26.744440",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "d9be3097-8a9e-4211-8838-b913ac364317",
@@ -7490,7 +8116,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.744573"
+      "createdAt": "2026-08-03T13:22:26.744573",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "04fbd292-cff3-4990-b418-9e57548970e7",
@@ -7506,7 +8134,9 @@
       "tags": [
         "Contractors-CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.744674"
+      "createdAt": "2026-08-03T13:22:26.744674",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "08a3c7c3-d76a-4d5b-a39a-2b4020288836",
@@ -7747,7 +8377,9 @@
         "Contractors-NY",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.745785"
+      "createdAt": "2026-08-03T13:22:26.745785",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "a8c21fd6-375b-4fbc-b748-0feaa4ff0a9a",
@@ -7763,7 +8395,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.745842"
+      "createdAt": "2026-08-03T13:22:26.745842",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "449d4b40-02d8-4d32-b92d-b273f52bfba9",
@@ -7779,7 +8413,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.745990"
+      "createdAt": "2026-08-03T13:22:26.745990",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "61c09243-57c0-4558-80a1-a637b5ab4ec8",
@@ -7795,7 +8431,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.746049"
+      "createdAt": "2026-08-03T13:22:26.746049",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "ad94640b-fc4d-401a-ab5a-b0201fd8486a",
@@ -7812,7 +8450,9 @@
         "Contractors-NY",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.746107"
+      "createdAt": "2026-08-03T13:22:26.746107",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "7b465347-9a7f-44d5-9126-2f4a8232451f",
@@ -7828,7 +8468,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.746163"
+      "createdAt": "2026-08-03T13:22:26.746163",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "fc511928-67e4-4194-ad21-296b4d313ad4",
@@ -7844,7 +8486,9 @@
       "tags": [
         "Contractors-TX"
       ],
-      "createdAt": "2026-08-03T13:22:26.746220"
+      "createdAt": "2026-08-03T13:22:26.746220",
+      "state": "TX",
+      "country": "USA"
     },
     {
       "id": "281951ca-d546-461f-a56d-ec34a031e69c",
@@ -7925,7 +8569,9 @@
         "FixtureManus",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.746543"
+      "createdAt": "2026-08-03T13:22:26.746543",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "79893afb-f4c0-4c40-8098-95f6ac54b310",
@@ -7974,7 +8620,9 @@
         "FixtureManus",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.746759"
+      "createdAt": "2026-08-03T13:22:26.746759",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "33884c47-d001-4eec-a42c-adc3eda3916f",
@@ -7992,7 +8640,9 @@
         "Universities",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.746820"
+      "createdAt": "2026-08-03T13:22:26.746820",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "1c65c946-3f65-4114-851a-62e14fbc0ced",
@@ -8173,7 +8823,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.747613"
+      "createdAt": "2026-08-03T13:22:26.747613",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "14afc018-6553-4375-9755-bcffb01b25bc",
@@ -8189,7 +8841,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.747671"
+      "createdAt": "2026-08-03T13:22:26.747671",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "cc44d713-0907-47b9-82b2-858ea81fdff4",
@@ -8206,7 +8860,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.747729"
+      "createdAt": "2026-08-03T13:22:26.747729",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "f6a06bb3-3ffa-47c7-b2a8-dbb881166b55",
@@ -8272,7 +8928,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.748035"
+      "createdAt": "2026-08-03T13:22:26.748035",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "b6348935-c183-4ced-854e-954c7c3a26bb",
@@ -8306,7 +8964,9 @@
         "EndCustomer",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.748153"
+      "createdAt": "2026-08-03T13:22:26.748153",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "62ddf83c-6d07-49c2-ae07-ccbdd2e1855e",
@@ -8355,7 +9015,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.748401"
+      "createdAt": "2026-08-03T13:22:26.748401",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "0d638864-fceb-404b-8fe5-60e0cf7df9f4",
@@ -8499,7 +9161,9 @@
       "tags": [
         "Contractors-AZ"
       ],
-      "createdAt": "2026-08-03T13:22:26.749079"
+      "createdAt": "2026-08-03T13:22:26.749079",
+      "state": "AZ",
+      "country": "USA"
     },
     {
       "id": "a30078af-b061-44be-b784-ab88ebd96f4f",
@@ -8515,7 +9179,9 @@
       "tags": [
         "Contractors-AZ"
       ],
-      "createdAt": "2026-08-03T13:22:26.749134"
+      "createdAt": "2026-08-03T13:22:26.749134",
+      "state": "AZ",
+      "country": "USA"
     },
     {
       "id": "11461836-06d0-41cc-8920-a515a4de9650",
@@ -8531,7 +9197,9 @@
       "tags": [
         "Contractors-AZ"
       ],
-      "createdAt": "2026-08-03T13:22:26.749189"
+      "createdAt": "2026-08-03T13:22:26.749189",
+      "state": "AZ",
+      "country": "USA"
     },
     {
       "id": "d186daaf-ef8a-4e21-9257-b6e251b24f09",
@@ -8596,7 +9264,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.749488"
+      "createdAt": "2026-08-03T13:22:26.749488",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "e75edf5a-0c9b-427c-967c-0e2ea08b38ea",
@@ -8612,7 +9282,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.749553"
+      "createdAt": "2026-08-03T13:22:26.749553",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "a00b3831-43be-4bf2-a4b6-4d22f7393b6d",
@@ -8628,7 +9300,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.749610"
+      "createdAt": "2026-08-03T13:22:26.749610",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "914a911f-8d53-4d9b-b893-9560eaf7fdca",
@@ -8644,7 +9318,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.749665"
+      "createdAt": "2026-08-03T13:22:26.749665",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "5286b7fb-9e0a-4f23-850f-e059f4aac54d",
@@ -8693,7 +9369,9 @@
         "Contractors-MD",
         "MD"
       ],
-      "createdAt": "2026-08-03T13:22:26.749833"
+      "createdAt": "2026-08-03T13:22:26.749833",
+      "state": "MD",
+      "country": "USA"
     },
     {
       "id": "c516a23f-10ab-4d0c-ab9d-16bc3087026c",
@@ -8902,7 +9580,9 @@
         "Travel",
         "OH"
       ],
-      "createdAt": "2026-08-03T13:22:26.750673"
+      "createdAt": "2026-08-03T13:22:26.750673",
+      "state": "OH",
+      "country": "USA"
     },
     {
       "id": "70148b5e-0b47-420d-9ba5-78c3a42050c4",
@@ -8919,7 +9599,9 @@
         "Admin",
         "NJ"
       ],
-      "createdAt": "2026-08-03T13:22:26.750797"
+      "createdAt": "2026-08-03T13:22:26.750797",
+      "state": "NJ",
+      "country": "USA"
     },
     {
       "id": "17e84034-d26d-4c72-bab8-96fff3fcaa56",
@@ -8951,7 +9633,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.750948"
+      "createdAt": "2026-08-03T13:22:26.750948",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "42442dd1-4679-420d-b731-7af30a51ffb8",
@@ -8984,7 +9668,9 @@
         "EndCustomer",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.751098"
+      "createdAt": "2026-08-03T13:22:26.751098",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "1543e4ea-1098-4f6f-9fd7-16271daa8678",
@@ -8996,11 +9682,13 @@
       "endCustomerType": "",
       "pipelineStage": "prospect",
       "dealValue": 0,
-      "notes": "Rize elevator correspondence. Topics: Data Gateway quote \u00ad. (limited correspondence, 1 msgs)",
+      "notes": "Rize elevator correspondence. Topics: Data Gateway quote ­. (limited correspondence, 1 msgs)",
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.751175"
+      "createdAt": "2026-08-03T13:22:26.751175",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "48ecbfbc-4c4c-4e5a-bdf3-5404a4a4fd59",
@@ -9128,7 +9816,9 @@
       "tags": [
         "Contractors-GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.751907"
+      "createdAt": "2026-08-03T13:22:26.751907",
+      "state": "GA",
+      "country": "USA"
     },
     {
       "id": "c0341711-c40b-4202-9a9a-ce6ce6df6b96",
@@ -9145,7 +9835,9 @@
         "Contractors-CALI",
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.751981"
+      "createdAt": "2026-08-03T13:22:26.751981",
+      "state": "CA",
+      "country": "Canada"
     },
     {
       "id": "80ceefd0-8644-4b6a-8456-b7b086b6334a",
@@ -9259,7 +9951,9 @@
         "Contractors-CANADA",
         "EndCustomer"
       ],
-      "createdAt": "2026-08-03T13:22:26.752644"
+      "createdAt": "2026-08-03T13:22:26.752644",
+      "state": "CA",
+      "country": "Canada"
     },
     {
       "id": "52c1ee4c-e2ef-4db6-a9c9-fccc1bb99203",
@@ -9276,7 +9970,9 @@
         "Contractors-CALI",
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.752762"
+      "createdAt": "2026-08-03T13:22:26.752762",
+      "state": "CA",
+      "country": "Canada"
     },
     {
       "id": "805a36df-2bef-4b93-a2fa-5f08741cf629",
@@ -9407,7 +10103,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.753546"
+      "createdAt": "2026-08-03T13:22:26.753546",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "5ba5ba5f-f41b-41b7-bde3-7a09f675e1fb",
@@ -9424,7 +10122,9 @@
         "Contractors-NC",
         "NC"
       ],
-      "createdAt": "2026-08-03T13:22:26.753626"
+      "createdAt": "2026-08-03T13:22:26.753626",
+      "state": "NC",
+      "country": "USA"
     },
     {
       "id": "a8959cbb-909a-472c-9aee-a469a2ad8927",
@@ -9441,7 +10141,9 @@
         "Contractors-CALI",
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.753700"
+      "createdAt": "2026-08-03T13:22:26.753700",
+      "state": "CA",
+      "country": "Canada"
     },
     {
       "id": "39f4fb04-d30e-4a87-9c77-f4601c62f4c4",
@@ -9458,7 +10160,9 @@
         "Contractors-CALI",
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.753771"
+      "createdAt": "2026-08-03T13:22:26.753771",
+      "state": "CA",
+      "country": "Canada"
     },
     {
       "id": "2dfbb6c7-be84-44db-b7e2-06de2f17025d",
@@ -9475,7 +10179,9 @@
         "Contractors-MD",
         "MD"
       ],
-      "createdAt": "2026-08-03T13:22:26.753845"
+      "createdAt": "2026-08-03T13:22:26.753845",
+      "state": "MD",
+      "country": "USA"
     },
     {
       "id": "04fd78bb-eae2-4333-9fcf-857b9573465f",
@@ -9491,7 +10197,9 @@
       "tags": [
         "Contractors-GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.753929"
+      "createdAt": "2026-08-03T13:22:26.753929",
+      "state": "GA",
+      "country": "USA"
     },
     {
       "id": "b6333358-090a-4880-b1ac-ac632c0450a8",
@@ -9508,7 +10216,9 @@
         "Contractors-FLA",
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.753994"
+      "createdAt": "2026-08-03T13:22:26.753994",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "98646c62-31de-411f-aa30-f4467651dd4c",
@@ -9524,7 +10234,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.754067"
+      "createdAt": "2026-08-03T13:22:26.754067",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "dfabf95b-6dfd-411b-9268-b114a47687c9",
@@ -9541,7 +10253,9 @@
         "Contractors-FLA",
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.754132"
+      "createdAt": "2026-08-03T13:22:26.754132",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "e8dbe242-45dd-44d4-98dc-cf23cc52178d",
@@ -9557,7 +10271,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.754202"
+      "createdAt": "2026-08-03T13:22:26.754202",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "cc88f7a7-45d0-49d8-8691-218e4f56a005",
@@ -9638,7 +10354,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.754748"
+      "createdAt": "2026-08-03T13:22:26.754748",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "44d21e8b-4c03-494b-805a-d48c08ff1558",
@@ -9671,7 +10389,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.754870"
+      "createdAt": "2026-08-03T13:22:26.754870",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "bcc9d258-4e67-4d31-ac13-add398806a80",
@@ -9736,7 +10456,9 @@
         "Contractors-CANADA",
         "OEMs"
       ],
-      "createdAt": "2026-08-03T13:22:26.755173"
+      "createdAt": "2026-08-03T13:22:26.755173",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "151f044c-ce82-4e56-8dcc-7477034bd8e0",
@@ -9802,7 +10524,9 @@
         "Consultants",
         "CO"
       ],
-      "createdAt": "2026-08-03T13:22:26.755525"
+      "createdAt": "2026-08-03T13:22:26.755525",
+      "state": "CO",
+      "country": "USA"
     },
     {
       "id": "eaaba0c5-343a-42cc-9085-16280c6c85a9",
@@ -9834,7 +10558,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.755667"
+      "createdAt": "2026-08-03T13:22:26.755667",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "be6b9a76-3ed8-407d-b4a3-8f27092d2e0e",
@@ -9850,7 +10576,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.755722"
+      "createdAt": "2026-08-03T13:22:26.755722",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "dd85721b-c1a9-4acf-a8bc-a14598c9f7d7",
@@ -9866,7 +10594,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.755777"
+      "createdAt": "2026-08-03T13:22:26.755777",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "b743db40-fedc-4c3f-940f-367dfd99bf07",
@@ -9882,7 +10612,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.755832"
+      "createdAt": "2026-08-03T13:22:26.755832",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "0ab12f4f-80a9-4e67-8e95-fc1288aa30e9",
@@ -9898,7 +10630,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.755938"
+      "createdAt": "2026-08-03T13:22:26.755938",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "967cb2d1-15a3-49a2-a1c2-44208165daf2",
@@ -9914,7 +10648,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.755997"
+      "createdAt": "2026-08-03T13:22:26.755997",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "aaf65be4-d1c8-4dc5-8efd-137f3eb54e45",
@@ -9930,7 +10666,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.756054"
+      "createdAt": "2026-08-03T13:22:26.756054",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "af884274-aa82-4373-9cbf-d12f21364ce2",
@@ -9964,7 +10702,9 @@
         "Contractors-NY",
         "Contractors-TN"
       ],
-      "createdAt": "2026-08-03T13:22:26.756241"
+      "createdAt": "2026-08-03T13:22:26.756241",
+      "state": "GA",
+      "country": "USA"
     },
     {
       "id": "58a2a416-e036-4024-ab46-01a2a57d857a",
@@ -9999,7 +10739,9 @@
         "Contractors-NY",
         "Contractors-TN"
       ],
-      "createdAt": "2026-08-03T13:22:26.756385"
+      "createdAt": "2026-08-03T13:22:26.756385",
+      "state": "GA",
+      "country": "USA"
     },
     {
       "id": "c1ac7a25-c915-4803-9755-4f002ca2e0b6",
@@ -10017,7 +10759,9 @@
         "Universities",
         "GA"
       ],
-      "createdAt": "2026-08-03T13:22:26.756443"
+      "createdAt": "2026-08-03T13:22:26.756443",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "a7e91083-d1c9-43ee-b608-7bd968132261",
@@ -10118,7 +10862,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.756886"
+      "createdAt": "2026-08-03T13:22:26.756886",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "1d168d77-7b96-4c2e-92bc-245825efa281",
@@ -10134,7 +10880,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.756942"
+      "createdAt": "2026-08-03T13:22:26.756942",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "876309fb-a8e3-4048-a63e-803335a5009f",
@@ -10182,7 +10930,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.757110"
+      "createdAt": "2026-08-03T13:22:26.757110",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "d0a9adff-f5d1-488b-84fa-dab479189ca2",
@@ -10198,7 +10948,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.757165"
+      "createdAt": "2026-08-03T13:22:26.757165",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "40c07d60-a050-453b-ad1c-469d4a1379ed",
@@ -10214,7 +10966,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.757219"
+      "createdAt": "2026-08-03T13:22:26.757219",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "c33fe43b-588b-4b1b-9e5f-4d6e7c2b2716",
@@ -10230,7 +10984,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.757321"
+      "createdAt": "2026-08-03T13:22:26.757321",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "65adb3a3-b7a8-4eab-980f-165b7e2321fb",
@@ -10246,7 +11002,9 @@
       "tags": [
         "Contractors-CANADA"
       ],
-      "createdAt": "2026-08-03T13:22:26.757379"
+      "createdAt": "2026-08-03T13:22:26.757379",
+      "state": "",
+      "country": "Canada"
     },
     {
       "id": "59c74e3a-3cf1-4a66-80ee-17e601f96a59",
@@ -10262,7 +11020,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.757483"
+      "createdAt": "2026-08-03T13:22:26.757483",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "a096bc11-e1ee-41c8-b361-27fe6060bee0",
@@ -10278,7 +11038,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.757575"
+      "createdAt": "2026-08-03T13:22:26.757575",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "7afe2b12-6831-4f4d-bcd6-6cf879652f08",
@@ -10294,7 +11056,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.757636"
+      "createdAt": "2026-08-03T13:22:26.757636",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "7ca3650f-0b1c-45da-abc1-aec5feab1731",
@@ -10310,7 +11074,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.757691"
+      "createdAt": "2026-08-03T13:22:26.757691",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "a8c46331-081e-4e98-8962-2688b7f5b1b4",
@@ -10326,7 +11092,9 @@
       "tags": [
         "Contractors-NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.757747"
+      "createdAt": "2026-08-03T13:22:26.757747",
+      "state": "NY",
+      "country": "USA"
     },
     {
       "id": "ff287564-515d-4543-ae14-dbc22beeccfd",
@@ -10454,7 +11222,9 @@
       "tags": [
         "Contractors-FLA"
       ],
-      "createdAt": "2026-08-03T13:22:26.758304"
+      "createdAt": "2026-08-03T13:22:26.758304",
+      "state": "FL",
+      "country": "USA"
     },
     {
       "id": "8ecc7d80-8730-4143-98a4-14babb89fae7",
@@ -10503,7 +11273,9 @@
         "EndCustomer",
         "NY"
       ],
-      "createdAt": "2026-08-03T13:22:26.758511"
+      "createdAt": "2026-08-03T13:22:26.758511",
+      "state": "NY",
+      "country": "USA"
     }
   ],
   "interactions": [],
